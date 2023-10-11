@@ -1,0 +1,717 @@
+﻿Cuenta,Nivel1,Nivel2,Nivel3,ITFM
+545002,1. Total Employee Costs,1. Salaries Dollars,SALARIES DOLLAR EMPLOYEES,A - REVENUE / CHARGEBACK
+545005,1. Total Employee Costs,1. Salaries Dollars,HYPO TAX,01 - Salaries
+546505,1. Total Employee Costs,1. Salaries Dollars,Long Term Incentive,02 - Other Employee Benefits & Costs
+548000,1. Total Employee Costs,1. Salaries Dollars,Payroll Tax Expense,03 - Dues & Suscriptions
+548500,1. Total Employee Costs,1. Salaries Dollars,Payroll Tax Expense - U.S.,04 - Training Expenses
+548504,1. Total Employee Costs,1. Salaries Dollars,FICA TAXES,05 - Travel & Meals Expenses
+548505,1. Total Employee Costs,1. Salaries Dollars,FUI & SUI,06 - Office Supplies
+548509,1. Total Employee Costs,1. Salaries Dollars,TAX EQUALIZATION,07 - Telephone Usage
+549000,1. Total Employee Costs,1. Salaries Dollars,Payroll Tax Expense - Non U.,08 - Cellular Usage
+782097,1. Total Employee Costs,1. Salaries Dollars,Intercompany Transfer - Salaries,09 - Gasoline
+548506,1. Total Employee Costs,1. Salaries Dollars,FED & STATE UEMPLOY,10 - Software Expense
+545000,1. Total Employee Costs,1. Salaries Dollars,Regular Pay - Salaried,11 - Hardware Expense
+545001,1. Total Employee Costs,2. Salaries Colones,SALARIES,11 - Cloud/Hosting Expense
+546000,1. Total Employee Costs,2. Salaries Colones,Overtime - Salaried,12 - Lease lines
+546002,1. Total Employee Costs,2. Salaries Colones,OVERTIME,13 - Radio Usage
+546500,1. Total Employee Costs,2. Salaries Colones,Bonus - Salaried (tied to pe,14 - Communications Equipment
+546519,1. Total Employee Costs,2. Salaries Colones,VACATION BONUS,15 - Maintenance & Repairs IT
+546521,1. Total Employee Costs,2. Salaries Colones,TEMP CLERICAL SERVICES,16 - Maintenance & Repairs Other
+546502,1. Total Employee Costs,2. Salaries Colones,Bonus,17 - Equipment Rental
+546503,1. Total Employee Costs,2. Salaries Colones,Bonus Local,18 - Computer Rental
+546510,1. Total Employee Costs,2. Salaries Colones,Bonus Colones,19 - Communication Rental
+545006,1. Total Employee Costs,2. Salaries Colones,Overtime 1.5,20 - Other Rentals
+545007,1. Total Employee Costs,2. Salaries Colones,Overtime 2,21 - Consultant Fees
+545011,1. Total Employee Costs,2. Salaries Colones,Salarios - Bonos,22 - Contract Labor and Temp Help
+546520,1. Total Employee Costs,2. Salaries Colones,VACATION BONUS,23 - Other Professional Services
+545004,1. Total Employee Costs,2. Salaries Colones,REINTEGRO DE INCAPACIDAD,24 - Depreciation Expenses
+546006,1. Total Employee Costs,2. Salaries Colones,OVERTIME 1.5,25 - Other I/C Costs
+546007,1. Total Employee Costs,2. Salaries Colones,OVERTIME 2,26 - Other Service Cost
+549001,1. Total Employee Costs,3. Social Security,ENFERMEDAD Y MATERNIDAD,27 - Other Expenses
+549002,1. Total Employee Costs,3. Social Security,"INVALIDEZ, VEJEZ Y MUERTE",A - REVENUE / CHARGEBACK
+549003,1. Total Employee Costs,3. Social Security,ASIGNACIONES FAMILIARES,01 - Salaries
+549004,1. Total Employee Costs,3. Social Security,INA,02 - Other Employee Benefits & Costs
+549005,1. Total Employee Costs,3. Social Security,IMAS,03 - Dues & Suscriptions
+549006,1. Total Employee Costs,3. Social Security,BANCO POPULAR,04 - Training Expenses
+549007,1. Total Employee Costs,3. Social Security,FONDO DE CAPITALIZACION LABORA,05 - Travel & Meals Expenses
+549008,1. Total Employee Costs,3. Social Security,PENSION COMPLEMENTARIA OBLIGAT,06 - Office Supplies
+549016,1. Total Employee Costs,3. Social Security,SEGURO SOCIAL,07 - Telephone Usage
+549017,1. Total Employee Costs,3. Social Security,EE SEGURO SOCIAL,08 - Cellular Usage
+550000,1. Total Employee Costs,3. Social Security,Other Payroll Costs,09 - Gasoline
+556002,1. Total Employee Costs,3. Social Security,"INVALIDEZ, VEJEZ Y MUERTE",10 - Software Expense
+556003,1. Total Employee Costs,3. Social Security,Fondo Capitalización,11 - Hardware Expense
+556004,1. Total Employee Costs,3. Social Security,Pensión Comp. Obligatoria,11 - Cloud/Hosting Expense
+549009,1. Total Employee Costs,3. Social Security,Payroll Tax Expenses,12 - Lease lines
+549011,1. Total Employee Costs,3. Social Security,ENFERMEDAD Y MATERNIDAD IME'S,13 - Radio Usage
+549013,1. Total Employee Costs,3. Social Security,Social Taxes,14 - Communications Equipment
+550003,1. Total Employee Costs,3. Social Security,Asociación Solidarista,15 - Maintenance & Repairs IT
+550004,1. Total Employee Costs,3. Social Security,Devolucion Impuesto,16 - Maintenance & Repairs Other
+550005,1. Total Employee Costs,3. Social Security,Maternal Indemnity,17 - Equipment Rental
+550001,1. Total Employee Costs,4. Other Employee Costs,Stock options,18 - Computer Rental
+550701,1. Total Employee Costs,4. Other Employee Costs,Stock options,19 - Communication Rental
+551000,1. Total Employee Costs,4. Other Employee Costs,Employee Benefit Costs,20 - Other Rentals
+552000,1. Total Employee Costs,4. Other Employee Costs,Pension Costs,21 - Consultant Fees
+553000,1. Total Employee Costs,4. Other Employee Costs,Pension Costs - Corporate Co,22 - Contract Labor and Temp Help
+553500,1. Total Employee Costs,4. Other Employee Costs,Pension Costs - Corporate Co,23 - Other Professional Services
+553502,1. Total Employee Costs,4. Other Employee Costs,PLAN 29,24 - Depreciation Expenses
+553505,1. Total Employee Costs,4. Other Employee Costs,GRSP,25 - Other I/C Costs
+553510,1. Total Employee Costs,4. Other Employee Costs,Pension Trust Funding,26 - Other Service Cost
+553511,1. Total Employee Costs,4. Other Employee Costs,PENSION FUND 98 FOREIGN,27 - Other Expenses
+554001,1. Total Employee Costs,4. Other Employee Costs,PENSION FUND 98 FOREIGN,A - REVENUE / CHARGEBACK
+554002,1. Total Employee Costs,4. Other Employee Costs,SERP DFFI,01 - Salaries
+556001,1. Total Employee Costs,4. Other Employee Costs,PENSION TRUST SAVINGS,02 - Other Employee Benefits & Costs
+557000,1. Total Employee Costs,4. Other Employee Costs,Severance Pymts,03 - Dues & Suscriptions
+557001,1. Total Employee Costs,4. Other Employee Costs,Severance Pymts,04 - Training Expenses
+557002,1. Total Employee Costs,4. Other Employee Costs,Severance Non Deductible,05 - Travel & Meals Expenses
+557051,1. Total Employee Costs,4. Other Employee Costs,SEVERENCE INDEMNITY,06 - Office Supplies
+558000,1. Total Employee Costs,4. Other Employee Costs,Deferred Compensation,07 - Telephone Usage
+559000,1. Total Employee Costs,4. Other Employee Costs,Deferred Compensation - 401(k),08 - Cellular Usage
+559005,1. Total Employee Costs,4. Other Employee Costs,GRSP,09 - Gasoline
+559006,1. Total Employee Costs,4. Other Employee Costs,GRSP BASIC RATE,10 - Software Expense
+559011,1. Total Employee Costs,4. Other Employee Costs,401K PLAN,11 - Hardware Expense
+560000,1. Total Employee Costs,4. Other Employee Costs,Othr Def Comp Programs,11 - Cloud/Hosting Expense
+560001,1. Total Employee Costs,4. Other Employee Costs,excess saving plan,12 - Lease lines
+561000,1. Total Employee Costs,4. Other Employee Costs,Postretirement Benefit Costs,13 - Radio Usage
+561031,1. Total Employee Costs,4. Other Employee Costs,ACTIVE POST-RETMT MED,14 - Communications Equipment
+562000,1. Total Employee Costs,4. Other Employee Costs,Employee Insurance Expense,15 - Maintenance & Repairs IT
+563000,1. Total Employee Costs,4. Other Employee Costs,Medical and Dental Insurance,16 - Maintenance & Repairs Other
+563500,1. Total Employee Costs,4. Other Employee Costs,Medical Insurance Expense,17 - Equipment Rental
+563523,1. Total Employee Costs,4. Other Employee Costs,GROUP MEDICAL,18 - Computer Rental
+563528,1. Total Employee Costs,4. Other Employee Costs,Other Medical expenses,19 - Communication Rental
+564000,1. Total Employee Costs,4. Other Employee Costs,Dental Insurance Expense,20 - Other Rentals
+564023,1. Total Employee Costs,4. Other Employee Costs,GROUP DENTAL,21 - Consultant Fees
+565500,1. Total Employee Costs,4. Other Employee Costs,Group Life Insurance Expense,22 - Contract Labor and Temp Help
+565522,1. Total Employee Costs,4. Other Employee Costs,GROUP LIFE INSURANCE,23 - Other Professional Services
+566500,1. Total Employee Costs,4. Other Employee Costs,AD & D (Accidental Death & D,24 - Depreciation Expenses
+566525,1. Total Employee Costs,4. Other Employee Costs,ACCIDENT INSURANCE,25 - Other I/C Costs
+567500,1. Total Employee Costs,4. Other Employee Costs,Long-Term Disability Insuran,26 - Other Service Cost
+567524,1. Total Employee Costs,4. Other Employee Costs,GROUP L/T DISABILITY,27 - Other Expenses
+568500,1. Total Employee Costs,4. Other Employee Costs,Survivors Insurance Expensen,A - REVENUE / CHARGEBACK
+568526,1. Total Employee Costs,4. Other Employee Costs,SURVIVORS INCOME,01 - Salaries
+571500,1. Total Employee Costs,4. Other Employee Costs,Other Employee Benefit Costs,02 - Other Employee Benefits & Costs
+572500,1. Total Employee Costs,4. Other Employee Costs,Vacation Payee Benefit Costs,03 - Dues & Suscriptions
+572502,1. Total Employee Costs,4. Other Employee Costs,Vacation Paid Benefit Cost,04 - Training Expenses
+575500,1. Total Employee Costs,4. Other Employee Costs,Local Support Costs,05 - Travel & Meals Expenses
+577500,1. Total Employee Costs,4. Other Employee Costs,Other Local Support Costs,06 - Office Supplies
+577501,1. Total Employee Costs,4. Other Employee Costs,Preaviso y Cesantia,07 - Telephone Usage
+577502,1. Total Employee Costs,4. Other Employee Costs,Aguinaldo,08 - Cellular Usage
+577505,1. Total Employee Costs,4. Other Employee Costs,Other local benefits,09 - Gasoline
+577506,1. Total Employee Costs,4. Other Employee Costs,13th Month Bonus,10 - Software Expense
+577507,1. Total Employee Costs,4. Other Employee Costs,Car Plan,11 - Hardware Expense
+579500,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments,11 - Cloud/Hosting Expense
+580000,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - H,12 - Lease lines
+580500,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - S,13 - Radio Usage
+581000,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - H,14 - Communications Equipment
+581500,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - T,15 - Maintenance & Repairs IT
+581524,1. Total Employee Costs,4. Other Employee Costs,TAX PREPARATION,16 - Maintenance & Repairs Other
+582000,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - P,17 - Equipment Rental
+582047,1. Total Employee Costs,4. Other Employee Costs,MANAGEMENT FEES-HOUSING,18 - Computer Rental
+582500,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - S,19 - Communication Rental
+582530,1. Total Employee Costs,4. Other Employee Costs,WAREHOUSING & STORAGE,20 - Other Rentals
+583000,1. Total Employee Costs,4. Other Employee Costs,Other Foreign Support Paymen,21 - Consultant Fees
+583006,1. Total Employee Costs,4. Other Employee Costs,BANK CHARGES,22 - Contract Labor and Temp Help
+583055,1. Total Employee Costs,4. Other Employee Costs,VOLUNTARY EE'S ALLOW,23 - Other Professional Services
+583063,1. Total Employee Costs,4. Other Employee Costs,M & R-APPLIANCES,24 - Depreciation Expenses
+583064,1. Total Employee Costs,4. Other Employee Costs,M & R-HOUSES,25 - Other I/C Costs
+583077,1. Total Employee Costs,4. Other Employee Costs,DEPRECIATION APPLIANCES,26 - Other Service Cost
+584000,1. Total Employee Costs,4. Other Employee Costs,Miscellaneous Employee Benef,27 - Other Expenses
+584002,1. Total Employee Costs,4. Other Employee Costs,L.TERM/EXECUTIVE INCENTIVE,A - REVENUE / CHARGEBACK
+584003,1. Total Employee Costs,4. Other Employee Costs,BONUS $,01 - Salaries
+584004,1. Total Employee Costs,4. Other Employee Costs,LOCAL MERIT,02 - Other Employee Benefits & Costs
+586000,1. Total Employee Costs,4. Other Employee Costs,Other Personnel Costs,03 - Dues & Suscriptions
+587000,1. Total Employee Costs,4. Other Employee Costs,"Training, Certification, Con",04 - Training Expenses
+587002,1. Total Employee Costs,4. Other Employee Costs,TUITION REFUND,05 - Travel & Meals Expenses
+587003,1. Total Employee Costs,4. Other Employee Costs,Education and Training,06 - Office Supplies
+590000,1. Total Employee Costs,4. Other Employee Costs,Recruitment Costs,07 - Telephone Usage
+590002,1. Total Employee Costs,4. Other Employee Costs,RECRUITING EXPENSES,08 - Cellular Usage
+591000,1. Total Employee Costs,4. Other Employee Costs,Miscellaneous Personnel Cost,09 - Gasoline
+591002,1. Total Employee Costs,4. Other Employee Costs,Repatriation expenses,10 - Software Expense
+591006,1. Total Employee Costs,4. Other Employee Costs,EMPLOYEE PHYSICALS,11 - Hardware Expense
+591099,1. Total Employee Costs,4. Other Employee Costs,OTHER PERSONAL COST,11 - Cloud/Hosting Expense
+592000,1. Total Employee Costs,4. Other Employee Costs,Workers' Compensation/Medica,12 - Lease lines
+596000,1. Total Employee Costs,4. Other Employee Costs,Insured  Workers' Compensati,13 - Radio Usage
+596073,1. Total Employee Costs,4. Other Employee Costs,W/C INSURANCE,14 - Communications Equipment
+781032,1. Total Employee Costs,4. Other Employee Costs,EMPLOYEE RECREATION,15 - Maintenance & Repairs IT
+584001,1. Total Employee Costs,4. Other Employee Costs,Misc. Employee Benef Cost,16 - Maintenance & Repairs Other
+584009,1. Total Employee Costs,4. Other Employee Costs,Misc. Employee Benef Cost,17 - Equipment Rental
+560002,1. Total Employee Costs,4. Other Employee Costs,Profit Sharing,18 - Computer Rental
+781033,1. Total Employee Costs,4. Other Employee Costs,Motivational Expenses,19 - Communication Rental
+585006,1. Total Employee Costs,4. Other Employee Costs,Temporary Services Students,20 - Other Rentals
+587012,1. Total Employee Costs,4. Other Employee Costs,Education and Training Provision,21 - Consultant Fees
+587004,1. Total Employee Costs,4. Other Employee Costs,Training Succession Planning,22 - Contract Labor and Temp Help
+587006,1. Total Employee Costs,4. Other Employee Costs,FACE Project,23 - Other Professional Services
+559007,1. Total Employee Costs,4. Other Employee Costs,GRSP NEW 2010,24 - Depreciation Expenses
+559008,1. Total Employee Costs,4. Other Employee Costs,BN VITAL,25 - Other I/C Costs
+559009,1. Total Employee Costs,4. Other Employee Costs,BN VITAL BASICO,26 - Other Service Cost
+559012,1. Total Employee Costs,4. Other Employee Costs,BN VITAL Bono,27 - Other Expenses
+559010,1. Total Employee Costs,4. Other Employee Costs,BN VITAL Not Deductible,A - REVENUE / CHARGEBACK
+545008,1. Total Employee Costs,4. Other Employee Costs,Oncall Benefit,01 - Salaries
+563517,1. Total Employee Costs,4. Other Employee Costs,Medical Expense SFCR,02 - Other Employee Benefits & Costs
+563518,1. Total Employee Costs,4. Other Employee Costs,IME Medical,03 - Dues & Suscriptions
+563519,1. Total Employee Costs,4. Other Employee Costs,Beneficio de Maternidad,04 - Training Expenses
+563520,1. Total Employee Costs,4. Other Employee Costs,Emergencias medica,05 - Travel & Meals Expenses
+563521,1. Total Employee Costs,4. Other Employee Costs,Responsabilidad Civil,06 - Office Supplies
+563522,1. Total Employee Costs,4. Other Employee Costs,Riesgos del Trabajador,07 - Telephone Usage
+565523,1. Total Employee Costs,4. Other Employee Costs,TOTAL PERMANENT DISABILITY,08 - Cellular Usage
+563524,1. Total Employee Costs,4. Other Employee Costs,PROSALUD GROUP MEDICAL,09 - Gasoline
+580506,1. Total Employee Costs,4. Other Employee Costs,FED & STATE UEMPLOY,10 - Software Expense
+591030,1. Total Employee Costs,4. Other Employee Costs,Due & 8. Subscriptions,11 - Hardware Expense
+565524,1. Total Employee Costs,4. Other Employee Costs,Medical Insurance Expense,11 - Cloud/Hosting Expense
+577503,1. Total Employee Costs,4. Other Employee Costs,Aguinaldo Allocation,12 - Lease lines
+572503,1. Total Employee Costs,4. Other Employee Costs,Accrued Vacation,13 - Radio Usage
+589001,1. Total Employee Costs,4. Other Employee Costs,Reloaction Cost,14 - Communications Equipment
+572504,1. Total Employee Costs,4. Other Employee Costs,Accrued Vacation,15 - Maintenance & Repairs IT
+554003,1. Total Employee Costs,4. Other Employee Costs,SERP DFFI Adm,16 - Maintenance & Repairs Other
+587007,1. Total Employee Costs,4. Other Employee Costs,16. Training Expenses - Beca,17 - Equipment Rental
+584005,1. Total Employee Costs,4. Other Employee Costs,Bonus Adj,18 - Computer Rental
+557003,1. Total Employee Costs,4. Other Employee Costs,Enhanced Severance,19 - Communication Rental
+569501,1. Total Employee Costs,4. Other Employee Costs,Insurance Travel Expense,20 - Other Rentals
+563526,1. Total Employee Costs,4. Other Employee Costs,ADISA MEDICAL,21 - Consultant Fees
+563527,1. Total Employee Costs,4. Other Employee Costs,Gastos Medicos no Deducibles,22 - Contract Labor and Temp Help
+587008,1. Total Employee Costs,4. Other Employee Costs,Capacitacion y Entretenimiento,23 - Other Professional Services
+577001,1. Total Employee Costs,4. Other Employee Costs,Ayuda a Hijos,24 - Depreciation Expenses
+584013,1. Total Employee Costs,4. Other Employee Costs,Bonus Long Term,25 - Other I/C Costs
+562502,1. Total Employee Costs,4. Other Employee Costs,Vacation Accrual,26 - Other Service Cost
+545009,1. Total Employee Costs,4. Other Employee Costs,Licencia por maternidad,27 - Other Expenses
+549025,1. Total Employee Costs,4. Other Employee Costs,Social Charges Bonus,A - REVENUE / CHARGEBACK
+556000,1. Total Employee Costs,4. Other Employee Costs,PENSION COST - LOCAL,01 - Salaries
+569500,1. Total Employee Costs,4. Other Employee Costs,Other Insurance Expense,02 - Other Employee Benefits & Costs
+585000,1. Total Employee Costs,4. Other Employee Costs,Contract Labor and Temporary,03 - Dues & Suscriptions
+589000,1. Total Employee Costs,4. Other Employee Costs,Reloaction Cost,04 - Training Expenses
+587009,1. Total Employee Costs,4. Other Employee Costs,Scholarship Expenses not deductible,05 - Travel & Meals Expenses
+591001,1. Total Employee Costs,4. Other Employee Costs,Other Employee Benefits,06 - Office Supplies
+549018,1. Total Employee Costs,5. IME'S Cost,CR INCOME TAX,07 - Telephone Usage
+580028,1. Total Employee Costs,5. IME'S Cost,HOUSING ALLOWANCE,08 - Cellular Usage
+580529,1. Total Employee Costs,5. IME'S Cost,SCHOOL TUITION,09 - Gasoline
+581027,1. Total Employee Costs,5. IME'S Cost,Home Leave,10 - Software Expense
+583046,1. Total Employee Costs,5. IME'S Cost,SECURITY SERVICES,11 - Hardware Expense
+583050,1. Total Employee Costs,5. IME'S Cost,RELOCATION & MOVING,11 - Cloud/Hosting Expense
+583078,1. Total Employee Costs,5. IME'S Cost,AMORTIZE IME CAR/HHG,12 - Lease lines
+782076,1. Total Employee Costs,5. IME'S Cost,IMES costs allocation,13 - Radio Usage
+549019,1. Total Employee Costs,5. IME'S Cost,CR INCOME TAX,14 - Communications Equipment
+580027,1. Total Employee Costs,5. IME'S Cost,CAR ALLOWANCE,15 - Maintenance & Repairs IT
+549022,1. Total Employee Costs,5. IME'S Cost,Foreign Tax,16 - Maintenance & Repairs Other
+549023,1. Total Employee Costs,5. IME'S Cost,CCSS NO DEDUCIBLE,17 - Equipment Rental
+549024,1. Total Employee Costs,5. IME'S Cost,ISR no deducible,18 - Computer Rental
+580029,1. Total Employee Costs,5. IME'S Cost,Special Allowance,19 - Communication Rental
+750000,2. Total Overhead Costs,6. Depreciation Expenses,Amortization and Depreciatio,20 - Other Rentals
+750100,2. Total Overhead Costs,6. Depreciation Expenses,Amortization Exp,21 - Consultant Fees
+751500,2. Total Overhead Costs,6. Depreciation Expenses,Amort Exp-Other,22 - Contract Labor and Temp Help
+751505,2. Total Overhead Costs,6. Depreciation Expenses,Amort Exp-Computer Software,23 - Other Professional Services
+752000,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense,24 - Depreciation Expenses
+752600,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense - Lease,25 - Other I/C Costs
+752603,2. Total Overhead Costs,6. Depreciation Expenses,Dep Mej Propiedad,26 - Other Service Cost
+752614,2. Total Overhead Costs,6. Depreciation Expenses,DEPR L/H IMPROVEMENT,27 - Other Expenses
+752700,2. Total Overhead Costs,6. Depreciation Expenses,Depr Exp-Vessels & Cont,A - REVENUE / CHARGEBACK
+752705,2. Total Overhead Costs,6. Depreciation Expenses,Cont Deprec Exp,01 - Salaries
+753000,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense - Machi,02 - Other Employee Benefits & Costs
+753010,2. Total Overhead Costs,6. Depreciation Expenses,Depr White Goods,03 - Dues & Suscriptions
+753013,2. Total Overhead Costs,6. Depreciation Expenses,Depr Machinery and Equipme,04 - Training Expenses
+753016,2. Total Overhead Costs,6. Depreciation Expenses,DEPR CARS,05 - Travel & Meals Expenses
+753019,2. Total Overhead Costs,6. Depreciation Expenses,DEPR OFFICE EQUIP,06 - Office Supplies
+753200,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense - Commu,07 - Telephone Usage
+753205,2. Total Overhead Costs,6. Depreciation Expenses,DEPR COMPUTER SOFTWARE,08 - Cellular Usage
+753215,2. Total Overhead Costs,6. Depreciation Expenses,DEPR COMPUTERS,09 - Gasoline
+753216,2. Total Overhead Costs,6. Depreciation Expenses,DEP Comp HARD,10 - Software Expense
+753500,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense - Other,11 - Hardware Expense
+753510,2. Total Overhead Costs,6. Depreciation Expenses,DEPRECIATION EXPENSE,11 - Cloud/Hosting Expense
+785089,2. Total Overhead Costs,6. Depreciation Expenses,Divisions AS/400 depreciation,12 - Lease lines
+753210,2. Total Overhead Costs,6. Depreciation Expenses,Depr. Sis. Comunic. E IN.,13 - Radio Usage
+752610,2. Total Overhead Costs,6. Depreciation Expenses,DEPR L/H IMPROVEMENT,14 - Communications Equipment
+753230,2. Total Overhead Costs,6. Depreciation Expenses,DEPR.SIS.COM.E INF.TRASP,15 - Maintenance & Repairs IT
+752501,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Buildings,16 - Maintenance & Repairs Other
+753030,2. Total Overhead Costs,6. Depreciation Expenses,DEPR Maquinaria y Equipos,17 - Equipment Rental
+753202,2. Total Overhead Costs,6. Depreciation Expenses,Dep AS/400 Capital Leases,18 - Computer Rental
+753232,2. Total Overhead Costs,6. Depreciation Expenses,DEPR.EQCOMPUT.OUTS,19 - Communication Rental
+753031,2. Total Overhead Costs,6. Depreciation Expenses,DEPR Maquinaria y Equipos (exonerado),20 - Other Rentals
+646003,2. Total Overhead Costs,6. Depreciation Expenses,Software amortization,21 - Consultant Fees
+753211,2. Total Overhead Costs,6. Depreciation Expenses,Depr. Sis. Comunic. Inform,22 - Contract Labor and Temp Help
+753233,2. Total Overhead Costs,6. Depreciation Expenses,DEPR.EQCOMPUT.EXON,23 - Other Professional Services
+753203,2. Total Overhead Costs,6. Depreciation Expenses,Capital Lease Depreciation,24 - Depreciation Expenses
+752630,2. Total Overhead Costs,6. Depreciation Expenses,DEPR MEJORES PROPIEDAD ALQUILADA,25 - Other I/C Costs
+753501,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense - Capital Lease,26 - Other Service Cost
+753225,2. Total Overhead Costs,6. Depreciation Expenses,DEPRECIATION EXPENSE,27 - Other Expenses
+753508,2. Total Overhead Costs,6. Depreciation Expenses,DEPR 2,A - REVENUE / CHARGEBACK
+753221,2. Total Overhead Costs,6. Depreciation Expenses,DEPRECIATION EXPENSE,01 - Salaries
+753222,2. Total Overhead Costs,6. Depreciation Expenses,DEPRECIATION EXPENSE,02 - Other Employee Benefits & Costs
+753212,2. Total Overhead Costs,6. Depreciation Expenses,Dep. Comp. Hard. DP,03 - Dues & Suscriptions
+753226,2. Total Overhead Costs,6. Depreciation Expenses,Dep. Comp. Hard. FP,04 - Training Expenses
+753213,2. Total Overhead Costs,6. Depreciation Expenses,Dep.Soft.DP,05 - Travel & Meals Expenses
+753227,2. Total Overhead Costs,6. Depreciation Expenses,DEP.COMP.soft NE FP,06 - Office Supplies
+753023,2. Total Overhead Costs,6. Depreciation Expenses,DEP OTRA M&E DP NE,07 - Telephone Usage
+753022,2. Total Overhead Costs,6. Depreciation Expenses,DEP Mobiliario DP NE,08 - Cellular Usage
+752502,2. Total Overhead Costs,6. Depreciation Expenses,Gto Dep.Mejoras Edificio,09 - Gasoline
+753228,2. Total Overhead Costs,6. Depreciation Expenses,DEP.SOFT.BI DP NE,10 - Software Expense
+752503,2. Total Overhead Costs,6. Depreciation Expenses,Dep. on Improvement Expenses,11 - Hardware Expense
+752504,2. Total Overhead Costs,6. Depreciation Expenses,DBS Mejoras Edificio,11 - Cloud/Hosting Expense
+753320,2. Total Overhead Costs,6. Depreciation Expenses,Deprec.Expeses Lease,12 - Lease lines
+753401,2. Total Overhead Costs,6. Depreciation Expenses,Depr Exp-Computer So,13 - Radio Usage
+753402,2. Total Overhead Costs,6. Depreciation Expenses,Depr Soft BI  DP NE,14 - Communications Equipment
+753416,2. Total Overhead Costs,6. Depreciation Expenses,Dep Software,15 - Maintenance & Repairs IT
+753305,2. Total Overhead Costs,6. Depreciation Expenses,DEPREC EXP-ROU ASS,16 - Maintenance & Repairs Other
+600000,2. Total Overhead Costs,7. Total Materials,Material Costs,17 - Equipment Rental
+601000,2. Total Overhead Costs,7. Total Materials,Raw Materials,18 - Computer Rental
+606000,2. Total Overhead Costs,7. Total Materials,Malt,19 - Communication Rental
+606082,2. Total Overhead Costs,7. Total Materials,LUBRICANTS,20 - Other Rentals
+631000,2. Total Overhead Costs,7. Total Materials,"Fuel, Oil and Lubricants Exp",21 - Consultant Fees
+635000,2. Total Overhead Costs,7. Total Materials,Other Fuel Expense,22 - Contract Labor and Temp Help
+635080,2. Total Overhead Costs,7. Total Materials,JET FUEL,23 - Other Professional Services
+637000,2. Total Overhead Costs,7. Total Materials,Office Supplies Expense,24 - Depreciation Expenses
+637020,2. Total Overhead Costs,7. Total Materials,OFFICE SUPPLIES QSMS,25 - Other I/C Costs
+637021,2. Total Overhead Costs,7. Total Materials,SUPPLIES-MEDECINES,26 - Other Service Cost
+637022,2. Total Overhead Costs,7. Total Materials,Data Center Supplies,27 - Other Expenses
+637026,2. Total Overhead Costs,7. Total Materials,Equipment purchase,A - REVENUE / CHARGEBACK
+637040,2. Total Overhead Costs,7. Total Materials,SUPPLIES-UNIFORMS,01 - Salaries
+637050,2. Total Overhead Costs,7. Total Materials,SUPPLIES-TONNER,02 - Other Employee Benefits & Costs
+637060,2. Total Overhead Costs,7. Total Materials,Supplies Building Maintenance,03 - Dues & Suscriptions
+637080,2. Total Overhead Costs,7. Total Materials,JET SUPPLIES,04 - Training Expenses
+637090,2. Total Overhead Costs,7. Total Materials,New Building-Equipment,05 - Travel & Meals Expenses
+637501,2. Total Overhead Costs,7. Total Materials,PPE Non Cap,06 - Office Supplies
+638000,2. Total Overhead Costs,7. Total Materials,Computer Hardware and Softwa,07 - Telephone Usage
+641003,2. Total Overhead Costs,7. Total Materials,Hardware Expense - PC's,08 - Cellular Usage
+642001,2. Total Overhead Costs,7. Total Materials,Hardware Expense - Network,09 - Gasoline
+643000,2. Total Overhead Costs,7. Total Materials,Software Expense,10 - Software Expense
+644000,2. Total Overhead Costs,7. Total Materials,Software Expense - Midrange/,11 - Hardware Expense
+644071,2. Total Overhead Costs,7. Total Materials,AS/400 APPLN SOFTWARE,11 - Cloud/Hosting Expense
+644072,2. Total Overhead Costs,7. Total Materials,SOFTWARE-MOD'S AS/400,12 - Lease lines
+644073,2. Total Overhead Costs,7. Total Materials,SOFTWARE-YEARLY MAINT,13 - Radio Usage
+644074,2. Total Overhead Costs,7. Total Materials,Computer Hardware QSMS,14 - Communications Equipment
+644075,2. Total Overhead Costs,7. Total Materials,PC Software,15 - Maintenance & Repairs IT
+644076,2. Total Overhead Costs,7. Total Materials,Sistem Maintenance,16 - Maintenance & Repairs Other
+646000,2. Total Overhead Costs,7. Total Materials,Software Expense - Network,17 - Equipment Rental
+646070,2. Total Overhead Costs,7. Total Materials,SOFTWARE-MICRO NETWORK,18 - Computer Rental
+647000,2. Total Overhead Costs,7. Total Materials,Comm Equip Exp,19 - Communication Rental
+647502,2. Total Overhead Costs,7. Total Materials,Storage Cloud Service,20 - Other Rentals
+647005,2. Total Overhead Costs,7. Total Materials,Equipment Lease/Purchase,21 - Consultant Fees
+652028,2. Total Overhead Costs,7. Total Materials,RESEARCH MATERIALS,22 - Contract Labor and Temp Help
+653000,2. Total Overhead Costs,7. Total Materials,M&R-Third Party,23 - Other Professional Services
+654000,2. Total Overhead Costs,7. Total Materials,M&R-Equipment,24 - Depreciation Expenses
+654071,2. Total Overhead Costs,7. Total Materials,ROUTINE MAINT 100 HOURS,25 - Other I/C Costs
+654072,2. Total Overhead Costs,7. Total Materials,MAJOR OVERHAUL,26 - Other Service Cost
+655000,2. Total Overhead Costs,7. Total Materials,M&R-Vehicles,27 - Other Expenses
+655062,2. Total Overhead Costs,7. Total Materials,MAJOR M & R-VEHICLES,A - REVENUE / CHARGEBACK
+656000,2. Total Overhead Costs,7. Total Materials,M&R-Plant & Building,01 - Salaries
+656001,2. Total Overhead Costs,7. Total Materials,M&R-Torre Mercedes,02 - Other Employee Benefits & Costs
+656055,2. Total Overhead Costs,7. Total Materials,M&R-Plant,03 - Dues & Suscriptions
+656099,2. Total Overhead Costs,7. Total Materials,M&R-Plant & Building,04 - Training Expenses
+656098,2. Total Overhead Costs,7. Total Materials,M&R-Plant & Building,05 - Travel & Meals Expenses
+661000,2. Total Overhead Costs,7. Total Materials,M&R-Computer&Communication,06 - Office Supplies
+661099,2. Total Overhead Costs,7. Total Materials,M&R-Computer&Communication,07 - Telephone Usage
+662000,2. Total Overhead Costs,7. Total Materials,M&R-Other,08 - Cellular Usage
+662099,2. Total Overhead Costs,7. Total Materials,MAINTENANCE AND REPAIRS,09 - Gasoline
+680001,2. Total Overhead Costs,7. Total Materials,VESSEL COSTS - BANN,10 - Software Expense
+700000,2. Total Overhead Costs,7. Total Materials,Utilities Expense,11 - Hardware Expense
+701000,2. Total Overhead Costs,7. Total Materials,Utilities Exp-Power,11 - Cloud/Hosting Expense
+785074,2. Total Overhead Costs,7. Total Materials,FUEL AND LUBRICANTS,12 - Lease lines
+637019,2. Total Overhead Costs,7. Total Materials,Office Supplies,13 - Radio Usage
+633010,2. Total Overhead Costs,7. Total Materials,Diesel,14 - Communications Equipment
+637013,2. Total Overhead Costs,7. Total Materials,Disp. de Almacén Eléctrico,15 - Maintenance & Repairs IT
+641011,2. Total Overhead Costs,7. Total Materials,Hardware Expense - PC's,16 - Maintenance & Repairs Other
+647010,2. Total Overhead Costs,7. Total Materials,Comm. Equipment Expense,17 - Equipment Rental
+662014,2. Total Overhead Costs,7. Total Materials,Mantenimiento y Reparación,18 - Computer Rental
+782012,2. Total Overhead Costs,7. Total Materials,Equipo no Capitalizable,19 - Communication Rental
+782013,2. Total Overhead Costs,7. Total Materials,Furniture & Fixtures no Cap.,20 - Other Rentals
+654010,2. Total Overhead Costs,7. Total Materials,M&R-Equipment,21 - Consultant Fees
+637004,2. Total Overhead Costs,7. Total Materials,Magnetic Cards,22 - Contract Labor and Temp Help
+652021,2. Total Overhead Costs,7. Total Materials,Materiales y Suministros Varios,23 - Other Professional Services
+652013,2. Total Overhead Costs,7. Total Materials,Ajustes Inv. Fisico Audt.,24 - Depreciation Expenses
+656002,2. Total Overhead Costs,7. Total Materials,DFFI Remodelaciones,25 - Other I/C Costs
+642002,2. Total Overhead Costs,7. Total Materials,Hardware Expense - AS/400,26 - Other Service Cost
+640001,2. Total Overhead Costs,7. Total Materials,Hrdwr Exp-Midrng/Mainfrm,27 - Other Expenses
+646002,2. Total Overhead Costs,7. Total Materials,Software Maintenance,A - REVENUE / CHARGEBACK
+654012,2. Total Overhead Costs,7. Total Materials,M&R-Equipment,01 - Salaries
+654013,2. Total Overhead Costs,7. Total Materials,M&R-Equipment Non Deduc,02 - Other Employee Benefits & Costs
+646001,2. Total Overhead Costs,7. Total Materials,Software Expense - Network,03 - Dues & Suscriptions
+617001,2. Total Overhead Costs,7. Total Materials,Other Pack Materials,04 - Training Expenses
+645001,2. Total Overhead Costs,7. Total Materials,Software Expense,05 - Travel & Meals Expenses
+637025,2. Total Overhead Costs,7. Total Materials,Other Office Supplies,06 - Office Supplies
+656003,2. Total Overhead Costs,7. Total Materials,DFFI Remodelaciones,07 - Telephone Usage
+641012,2. Total Overhead Costs,7. Total Materials,Equipment Supplies,08 - Cellular Usage
+641013,2. Total Overhead Costs,7. Total Materials,Equipment Supplies,09 - Gasoline
+652017,2. Total Overhead Costs,7. Total Materials,Ajustes In. Físico,10 - Software Expense
+644070,2. Total Overhead Costs,7. Total Materials,HFM Licenses,11 - Hardware Expense
+652010,2. Total Overhead Costs,7. Total Materials,Ajustes Generales de Inventario,11 - Cloud/Hosting Expense
+785077,2. Total Overhead Costs,7. Total Materials,FUEL AND LUBRICANTS non deductable,12 - Lease lines
+630026,2. Total Overhead Costs,7. Total Materials,M&R Structure,13 - Radio Usage
+634001,2. Total Overhead Costs,7. Total Materials,Gasoline Fuel Expenses,14 - Communications Equipment
+647501,2. Total Overhead Costs,7. Total Materials,Cloud Hosting services,15 - Maintenance & Repairs IT
+647002,2. Total Overhead Costs,7. Total Materials,Equipment Purchased,16 - Maintenance & Repairs Other
+652031,2. Total Overhead Costs,7. Total Materials,Chemical Rebates,17 - Equipment Rental
+644069,2. Total Overhead Costs,7. Total Materials,Software licenses,18 - Computer Rental
+644002,2. Total Overhead Costs,7. Total Materials,Software Expenses,19 - Communication Rental
+630000,2. Total Overhead Costs,7. Total Materials,Maintenance & Repair,20 - Other Rentals
+634000,2. Total Overhead Costs,7. Total Materials,Gasoline Fuel Expenses,21 - Consultant Fees
+640000,2. Total Overhead Costs,7. Total Materials,Hrdwr Exp-Midrng/Mainfrm,22 - Contract Labor and Temp Help
+641000,2. Total Overhead Costs,7. Total Materials,Hardware Expense - PC's,23 - Other Professional Services
+642000,2. Total Overhead Costs,7. Total Materials,Hardware Expense - Network,24 - Depreciation Expenses
+645000,2. Total Overhead Costs,7. Total Materials,Software Expense - PC,25 - Other I/C Costs
+652000,2. Total Overhead Costs,7. Total Materials,Misc. Materials Cost,26 - Other Service Cost
+643001,2. Total Overhead Costs,7. Total Materials,Software Expense,27 - Other Expenses
+637023,2. Total Overhead Costs,7. Total Materials,School Supplies,A - REVENUE / CHARGEBACK
+782005,2. Total Overhead Costs,8. Subscriptions,8. Subscriptions,01 - Salaries
+785013,2. Total Overhead Costs,8. Subscriptions,DUES & 8. Subscriptions,02 - Other Employee Benefits & Costs
+785014,2. Total Overhead Costs,8. Subscriptions,DUES & 8. Subscriptions,03 - Dues & Suscriptions
+782015,2. Total Overhead Costs,8. Subscriptions,8. Subscriptions,04 - Training Expenses
+711000,2. Total Overhead Costs,9. Consultant Fees,9. Consultant Fees,05 - Travel & Meals Expenses
+711010,2. Total Overhead Costs,9. Consultant Fees,CONSULTANTS,06 - Office Supplies
+712000,2. Total Overhead Costs,9. Consultant Fees,Audit Fees,07 - Telephone Usage
+712005,2. Total Overhead Costs,9. Consultant Fees,AUDIT FEES,08 - Cellular Usage
+712006,2. Total Overhead Costs,9. Consultant Fees,AUDIT FEES,09 - Gasoline
+713000,2. Total Overhead Costs,9. Consultant Fees,Legal Fees,10 - Software Expense
+713003,2. Total Overhead Costs,9. Consultant Fees,OUTSIDE LEGAL FEES,11 - Hardware Expense
+714000,2. Total Overhead Costs,9. Consultant Fees,Other Professional Services,11 - Cloud/Hosting Expense
+782098,2. Total Overhead Costs,9. Consultant Fees,Outside Legal Cost Allocated,12 - Lease lines
+785088,2. Total Overhead Costs,9. Consultant Fees,DBCP Outside Legal Allocated,13 - Radio Usage
+711011,2. Total Overhead Costs,9. Consultant Fees,9. Consultant Fees,14 - Communications Equipment
+713011,2. Total Overhead Costs,9. Consultant Fees,LEGAL FEES,15 - Maintenance & Repairs IT
+714012,2. Total Overhead Costs,9. Consultant Fees,Other Professional Services,16 - Maintenance & Repairs Other
+713002,2. Total Overhead Costs,9. Consultant Fees,Legal/Acct. Expense,17 - Equipment Rental
+785051,2. Total Overhead Costs,9. Consultant Fees,DBCP Transfruit charge,18 - Computer Rental
+713004,2. Total Overhead Costs,9. Consultant Fees,DUK RESTRUCTURE OUT. LEGAL FEES,19 - Communication Rental
+714001,2. Total Overhead Costs,9. Consultant Fees,Other Professional Services,20 - Other Rentals
+713006,2. Total Overhead Costs,9. Consultant Fees,Legal Fees Litigation,21 - Consultant Fees
+704000,2. Total Overhead Costs,10. Communications Services,Communications Expense,22 - Contract Labor and Temp Help
+705000,2. Total Overhead Costs,10. Communications Services,Lease Lines Comm Exp,23 - Other Professional Services
+705002,2. Total Overhead Costs,10. Communications Services,Internet connections,24 - Depreciation Expenses
+705005,2. Total Overhead Costs,10. Communications Services,Lease Lines,25 - Other I/C Costs
+706000,2. Total Overhead Costs,10. Communications Services,Usage Communications Expense,26 - Other Service Cost
+706500,2. Total Overhead Costs,10. Communications Services,Telephone Usage Communicatio,27 - Other Expenses
+706510,2. Total Overhead Costs,10. Communications Services,TELEPHONE,A - REVENUE / CHARGEBACK
+706511,2. Total Overhead Costs,10. Communications Services,DEDICATED PHONE LINE,01 - Salaries
+706512,2. Total Overhead Costs,10. Communications Services,FAX LINES,02 - Other Employee Benefits & Costs
+706513,2. Total Overhead Costs,10. Communications Services,TELEX,03 - Dues & Suscriptions
+706514,2. Total Overhead Costs,10. Communications Services,ELECTRONIC MAIL BOX,04 - Training Expenses
+706515,2. Total Overhead Costs,10. Communications Services,BEEPERS,05 - Travel & Meals Expenses
+706516,2. Total Overhead Costs,10. Communications Services,CALLING CARDS,06 - Office Supplies
+706520,2. Total Overhead Costs,10. Communications Services,RADIOS,07 - Telephone Usage
+706521,2. Total Overhead Costs,10. Communications Services,CABLE TV CONNECTION,08 - Cellular Usage
+706540,2. Total Overhead Costs,10. Communications Services,PRISM DATA COMM,09 - Gasoline
+707000,2. Total Overhead Costs,10. Communications Services,Cellular Usage Communication,10 - Software Expense
+707015,2. Total Overhead Costs,10. Communications Services,CELLULAR TELEPHONES,11 - Hardware Expense
+710000,2. Total Overhead Costs,10. Communications Services,Service Costs,11 - Cloud/Hosting Expense
+705003,2. Total Overhead Costs,10. Communications Services,Lease Lines Frame Relay,12 - Lease lines
+705006,2. Total Overhead Costs,10. Communications Services,Lease Lines Internet,13 - Radio Usage
+705007,2. Total Overhead Costs,10. Communications Services,Lease Lines E-mail,14 - Communications Equipment
+705001,2. Total Overhead Costs,10. Communications Services,Lease Lines Satellites,15 - Maintenance & Repairs IT
+705004,2. Total Overhead Costs,10. Communications Services,Lease Lines Dial Up,16 - Maintenance & Repairs Other
+714005,2. Total Overhead Costs,11. Contracts and Other Services,Other Profess Services,17 - Equipment Rental
+714014,2. Total Overhead Costs,11. Contracts and Other Services,P/R and Benefits Admin,18 - Computer Rental
+714017,2. Total Overhead Costs,11. Contracts and Other Services,RECORD RETENTION,19 - Communication Rental
+737074,2. Total Overhead Costs,11. Contracts and Other Services,MAINTENANCE FEE TORRE MERCEDES,20 - Other Rentals
+575501,2. Total Overhead Costs,11. Contracts and Other Services,Local Support Cost,21 - Consultant Fees
+737006,2. Total Overhead Costs,11. Contracts and Other Services,Agent Computer Services,22 - Contract Labor and Temp Help
+703002,2. Total Overhead Costs,11. Contracts and Other Services,Security Services,23 - Other Professional Services
+737079,2. Total Overhead Costs,11. Contracts and Other Services,TM DEF CHARGES AMORT,24 - Depreciation Expenses
+737084,2. Total Overhead Costs,11. Contracts and Other Services,HR Payroll Services,25 - Other I/C Costs
+737086,2. Total Overhead Costs,11. Contracts and Other Services,Honduras Operations,26 - Other Service Cost
+737034,2. Total Overhead Costs,11. Contracts and Other Services,Maintenance Fee,27 - Other Expenses
+737026,2. Total Overhead Costs,11. Contracts and Other Services,Technical Fee Services,A - REVENUE / CHARGEBACK
+737087,2. Total Overhead Costs,11. Contracts and Other Services,SR Contributions,01 - Salaries
+737094,2. Total Overhead Costs,11. Contracts and Other Services,Licenses HR,02 - Other Employee Benefits & Costs
+737022,2. Total Overhead Costs,11. Contracts and Other Services,PICK UP CHARGES,03 - Dues & Suscriptions
+737000,2. Total Overhead Costs,11. Contracts and Other Services,Other Services Costs,04 - Training Expenses
+509010,2. Total Overhead Costs,12. Rentals,Intercompany Office Rent,05 - Travel & Meals Expenses
+740000,2. Total Overhead Costs,12. Rentals,Rental Expense,06 - Office Supplies
+740100,2. Total Overhead Costs,12. Rentals,Rental Expense - Real Proper,07 - Telephone Usage
+741500,2. Total Overhead Costs,12. Rentals,Other Real Property Rental E,08 - Cellular Usage
+741512,2. Total Overhead Costs,12. Rentals,HANGER RENTAL,09 - Gasoline
+742000,2. Total Overhead Costs,12. Rentals,Office Rental Expense,10 - Software Expense
+742010,2. Total Overhead Costs,12. Rentals,RENT-OFFICES,11 - Hardware Expense
+742301,2. Total Overhead Costs,12. Rentals,RENT-OFFICES,11 - Cloud/Hosting Expense
+742302,2. Total Overhead Costs,12. Rentals,RENT-OFFICES,12 - Lease lines
+742304,2. Total Overhead Costs,12. Rentals,Rev GAAP Equipment,13 - Radio Usage
+744000,2. Total Overhead Costs,12. Rentals,Rental Expense - Personal Pr,14 - Communications Equipment
+744500,2. Total Overhead Costs,12. Rentals,Equipment Rental Exp,15 - Maintenance & Repairs IT
+744510,2. Total Overhead Costs,12. Rentals,RENT-EQUIPMENT,16 - Maintenance & Repairs Other
+745000,2. Total Overhead Costs,12. Rentals,Vehicle Rental Exp,17 - Equipment Rental
+745005,2. Total Overhead Costs,12. Rentals,Vehicle Rental Exp,18 - Computer Rental
+745510,2. Total Overhead Costs,12. Rentals,Computer Rental Exp,19 - Communication Rental
+746000,2. Total Overhead Costs,12. Rentals,Comm Rental Exp,20 - Other Rentals
+746005,2. Total Overhead Costs,12. Rentals,Comm Rental Exp,21 - Consultant Fees
+749500,2. Total Overhead Costs,12. Rentals,Other Personal Property Rent,22 - Contract Labor and Temp Help
+749599,2. Total Overhead Costs,12. Rentals,RENTAL INCOME,23 - Other Professional Services
+744511,2. Total Overhead Costs,12. Rentals,RENT- EQUIPMENT,24 - Depreciation Expenses
+745010,2. Total Overhead Costs,12. Rentals,Vehicle Rental Exp,25 - Other I/C Costs
+745011,2. Total Overhead Costs,12. Rentals,Vehicle Rental Exp,26 - Other Service Cost
+749512,2. Total Overhead Costs,12. Rentals,Alquiler - Estacionamiento,27 - Other Expenses
+703001,2. Total Overhead Costs,12. Rentals,Plants Leases,A - REVENUE / CHARGEBACK
+745501,2. Total Overhead Costs,12. Rentals,Computer Lease Server,01 - Salaries
+745504,2. Total Overhead Costs,12. Rentals,Hardware Lease Telecommunications,02 - Other Employee Benefits & Costs
+745012,2. Total Overhead Costs,12. Rentals,Vehicle Rental Exp Non Deductable,03 - Dues & Suscriptions
+741002,2. Total Overhead Costs,12. Rentals,WHRSE & FACIL RENT,04 - Training Expenses
+745502,2. Total Overhead Costs,12. Rentals,Hardware Lease Teleco,05 - Travel & Meals Expenses
+744501,2. Total Overhead Costs,12. Rentals,Equipment Rental,06 - Office Supplies
+744601,2. Total Overhead Costs,12. Rentals,Equipment Rental,07 - Telephone Usage
+744701,2. Total Overhead Costs,12. Rentals,Equipment Rental,08 - Cellular Usage
+744801,2. Total Overhead Costs,12. Rentals,Equipment Rental Var,09 - Gasoline
+744803,2. Total Overhead Costs,12. Rentals,Equipment Rental Var,10 - Software Expense
+744807,2. Total Overhead Costs,12. Rentals,Rev GAAP Equipment,11 - Hardware Expense
+742011,2. Total Overhead Costs,12. Rentals,RENT-OFFICES OP lea,11 - Cloud/Hosting Expense
+745500,2. Total Overhead Costs,12. Rentals,Computer Rental Expense,12 - Lease lines
+745009,2. Total Overhead Costs,12. Rentals,Airplane - Rental,13 - Radio Usage
+738002,2. Total Overhead Costs,12. Rentals,Rental Expense not Cap.,14 - Communications Equipment
+738001,2. Total Overhead Costs,12. Rentals,Car Rental not Cap.,15 - Maintenance & Repairs IT
+739101,2. Total Overhead Costs,12. Rentals,OpertLease ROU AssetAm,16 - Maintenance & Repairs Other
+738040,2. Total Overhead Costs,12. Rentals,Rental GAAP Reversal,17 - Equipment Rental
+738041,2. Total Overhead Costs,12. Rentals,Rental GAAP Reversal,18 - Computer Rental
+739201,2. Total Overhead Costs,12. Rentals,Oper. Lease ROU Asset,19 - Communication Rental
+738003,2. Total Overhead Costs,12. Rentals,Estate 12. Rentals,20 - Other Rentals
+738004,2. Total Overhead Costs,12. Rentals,Estate 12. Rentals,21 - Consultant Fees
+738006,2. Total Overhead Costs,12. Rentals,Rental Equipment,22 - Contract Labor and Temp Help
+738030,2. Total Overhead Costs,12. Rentals,Lease Reversal,23 - Other Professional Services
+742030,2. Total Overhead Costs,12. Rentals,Lease Reversal,24 - Depreciation Expenses
+745030,2. Total Overhead Costs,12. Rentals,Lease Reversal,25 - Other I/C Costs
+738050,2. Total Overhead Costs,12. Rentals,Lease Reversal,26 - Other Service Cost
+701005,2. Total Overhead Costs,13. Public Services,ELECTR/BUILDING,27 - Other Expenses
+702000,2. Total Overhead Costs,13. Public Services,Utilities Exp-Water,A - REVENUE / CHARGEBACK
+702005,2. Total Overhead Costs,13. Public Services,Utilities Exp-Water,01 - Salaries
+703000,2. Total Overhead Costs,13. Public Services,Utilities Expense - Other,02 - Other Employee Benefits & Costs
+703099,2. Total Overhead Costs,13. Public Services,BUILDING OPERATING EXP,03 - Dues & Suscriptions
+756000,2. Total Overhead Costs,14. Taxes & Utilities,Taxes Other Than Income,04 - Training Expenses
+756500,2. Total Overhead Costs,14. Taxes & Utilities,Property Tax Expense,05 - Travel & Meals Expenses
+756509,2. Total Overhead Costs,14. Taxes & Utilities,PROPERTY TAXES,06 - Office Supplies
+757500,2. Total Overhead Costs,14. Taxes & Utilities,Net Worth/Franchise Tax Expe,07 - Telephone Usage
+757599,2. Total Overhead Costs,14. Taxes & Utilities,STATE FRANCHISE TAXES,08 - Cellular Usage
+758500,2. Total Overhead Costs,14. Taxes & Utilities,Other Tax Expensese,09 - Gasoline
+758503,2. Total Overhead Costs,14. Taxes & Utilities,Foreign remittance,10 - Software Expense
+758505,2. Total Overhead Costs,14. Taxes & Utilities,Other Local Taxes,11 - Hardware Expense
+782002,2. Total Overhead Costs,14. Taxes & Utilities,DUTIES,11 - Cloud/Hosting Expense
+782026,2. Total Overhead Costs,14. Taxes & Utilities,LANDING FEES,12 - Lease lines
+782042,2. Total Overhead Costs,14. Taxes & Utilities,VEHICLE DUTIES,13 - Radio Usage
+758504,2. Total Overhead Costs,14. Taxes & Utilities,Patent Protection,14 - Communications Equipment
+756502,2. Total Overhead Costs,14. Taxes & Utilities,Timbre de Educación,15 - Maintenance & Repairs IT
+758502,2. Total Overhead Costs,14. Taxes & Utilities,Timbres Fiscales,16 - Maintenance & Repairs Other
+758507,2. Total Overhead Costs,14. Taxes & Utilities,Imp.Renta Capital Mob,17 - Equipment Rental
+782044,2. Total Overhead Costs,14. Taxes & Utilities,PROCOMER CANON,18 - Computer Rental
+758511,2. Total Overhead Costs,14. Taxes & Utilities,CR Non Deductable Expenses,19 - Communication Rental
+782069,2. Total Overhead Costs,14. Taxes & Utilities,PROCOMER CANNON ALLOCATION,20 - Other Rentals
+714011,2. Total Overhead Costs,14. Taxes & Utilities,Tax Services,21 - Consultant Fees
+785006,2. Total Overhead Costs,14. Taxes & Utilities,Sales Taxes,22 - Contract Labor and Temp Help
+758514,2. Total Overhead Costs,14. Taxes & Utilities,Impuesto Traspaso Vehículos,23 - Other Professional Services
+758508,2. Total Overhead Costs,14. Taxes & Utilities,Patente Municipal,24 - Depreciation Expenses
+758516,2. Total Overhead Costs,14. Taxes & Utilities,Interes ISR,25 - Other I/C Costs
+758506,2. Total Overhead Costs,14. Taxes & Utilities,IVA Expenses,26 - Other Service Cost
+761018,2. Total Overhead Costs,15. Travel Expenses,Crew Expense,27 - Other Expenses
+637030,2. Total Overhead Costs,15. Travel Expenses,SUPPLIES-FOOD & DRINKS,A - REVENUE / CHARGEBACK
+760000,2. Total Overhead Costs,15. Travel Expenses,Travel and Entertainment Exp,01 - Salaries
+761000,2. Total Overhead Costs,15. Travel Expenses,Travel Expense,02 - Other Employee Benefits & Costs
+761010,2. Total Overhead Costs,15. Travel Expenses,15. Travel Expenses,03 - Dues & Suscriptions
+761015,2. Total Overhead Costs,15. Travel Expenses,T&E travel agency,04 - Training Expenses
+761020,2. Total Overhead Costs,15. Travel Expenses,TRAVEL AND ENTERTAINMENT-OTHER,05 - Travel & Meals Expenses
+762000,2. Total Overhead Costs,15. Travel Expenses,Per Diem Exp,06 - Office Supplies
+763000,2. Total Overhead Costs,15. Travel Expenses,Meals Exp,07 - Telephone Usage
+763010,2. Total Overhead Costs,15. Travel Expenses,Meals Exp,08 - Cellular Usage
+764000,2. Total Overhead Costs,15. Travel Expenses,Entertainment Exp,09 - Gasoline
+764010,2. Total Overhead Costs,15. Travel Expenses,Entertainment Exp QSMS,10 - Software Expense
+782066,2. Total Overhead Costs,15. Travel Expenses,MEETING EXPENSES,11 - Hardware Expense
+761011,2. Total Overhead Costs,15. Travel Expenses,T&E Travel Agency,11 - Cloud/Hosting Expense
+761012,2. Total Overhead Costs,15. Travel Expenses,15. Travel Expenses Non Deductables,12 - Lease lines
+763011,2. Total Overhead Costs,15. Travel Expenses,Meals Expenses Non Deductable,13 - Radio Usage
+761016,2. Total Overhead Costs,15. Travel Expenses,T&E travel Non Deductable,14 - Communications Equipment
+761017,2. Total Overhead Costs,15. Travel Expenses,NO DEDUCIBLE TRAVEL,15 - Maintenance & Repairs IT
+761013,2. Total Overhead Costs,15. Travel Expenses,Rent a Car Expenses,16 - Maintenance & Repairs Other
+763012,2. Total Overhead Costs,15. Travel Expenses,Meals Expenses Subsidy,17 - Equipment Rental
+763013,2. Total Overhead Costs,15. Travel Expenses,Reembolso Comedor,18 - Computer Rental
+761006,2. Total Overhead Costs,15. Travel Expenses,PARQUEO,19 - Communication Rental
+761001,2. Total Overhead Costs,15. Travel Expenses,Rental Car Expenses,20 - Other Rentals
+782065,2. Total Overhead Costs,16. Training Expenses,CONVENTIONS/CONFERENCES,21 - Consultant Fees
+587011,2. Total Overhead Costs,16. Training Expenses,Education and Training,22 - Contract Labor and Temp Help
+790000,2. Total Overhead Costs,17. Insurance Expenses,Insurance,23 - Other Professional Services
+797001,2. Total Overhead Costs,17. Insurance Expenses,Aviation Insurance,24 - Depreciation Expenses
+790500,2. Total Overhead Costs,17. Insurance Expenses,Property Insurance,25 - Other I/C Costs
+790510,2. Total Overhead Costs,17. Insurance Expenses,Insurance Allocation,26 - Other Service Cost
+790502,2. Total Overhead Costs,17. Insurance Expenses,Property Insurance,27 - Other Expenses
+791500,2. Total Overhead Costs,17. Insurance Expenses,Vehicle Insurance,A - REVENUE / CHARGEBACK
+791510,2. Total Overhead Costs,17. Insurance Expenses,AUTOMOBILE INSURANCE,01 - Salaries
+799500,2. Total Overhead Costs,17. Insurance Expenses,Other Insurance,02 - Other Employee Benefits & Costs
+799501,2. Total Overhead Costs,17. Insurance Expenses,Other Insurance,03 - Dues & Suscriptions
+790501,2. Total Overhead Costs,17. Insurance Expenses,Property Insurance,04 - Training Expenses
+792001,2. Total Overhead Costs,17. Insurance Expenses,Master Casualty,05 - Travel & Meals Expenses
+754000,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,06 - Office Supplies
+754005,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,07 - Telephone Usage
+770000,2. Total Overhead Costs,18. Other Expenses,Other Administrative Costs,08 - Cellular Usage
+771000,2. Total Overhead Costs,18. Other Expenses,Donations and Contributions,09 - Gasoline
+771500,2. Total Overhead Costs,18. Other Expenses,Cash Don & Contr,10 - Software Expense
+772000,2. Total Overhead Costs,18. Other Expenses,Chartbl Cash Don&Contr,11 - Hardware Expense
+772005,2. Total Overhead Costs,18. Other Expenses,Chartbl Cash Don&Contr,11 - Cloud/Hosting Expense
+773500,2. Total Overhead Costs,18. Other Expenses,Non-Cash Donations and Contr,12 - Lease lines
+775000,2. Total Overhead Costs,18. Other Expenses,Other Non-Cash Donations and,13 - Radio Usage
+775099,2. Total Overhead Costs,18. Other Expenses,EDUCATIONAL GIFT MATCH,14 - Communications Equipment
+777000,2. Total Overhead Costs,18. Other Expenses,Other Product Donations and,15 - Maintenance & Repairs IT
+777099,2. Total Overhead Costs,18. Other Expenses,CONTRIBUTIONS,16 - Maintenance & Repairs Other
+778000,2. Total Overhead Costs,18. Other Expenses,Postage and Courier Expense,17 - Equipment Rental
+778094,2. Total Overhead Costs,18. Other Expenses,POSTAGE AND COURIER,18 - Computer Rental
+779000,2. Total Overhead Costs,18. Other Expenses,Bank Charges Other Than Inte,19 - Communication Rental
+779006,2. Total Overhead Costs,18. Other Expenses,BANK FEES,20 - Other Rentals
+780000,2. Total Overhead Costs,18. Other Expenses,Regulated Costs,21 - Consultant Fees
+780010,2. Total Overhead Costs,18. Other Expenses,REGULATED COSTS,22 - Contract Labor and Temp Help
+781000,2. Total Overhead Costs,18. Other Expenses,Employee Recreational Activi,23 - Other Professional Services
+782000,2. Total Overhead Costs,18. Other Expenses,Misc Admin Costs,24 - Depreciation Expenses
+782001,2. Total Overhead Costs,18. Other Expenses,Misc Admin Costs,25 - Other I/C Costs
+782009,2. Total Overhead Costs,18. Other Expenses,M&R ALLOCATIONS,26 - Other Service Cost
+782010,2. Total Overhead Costs,18. Other Expenses,G & A ALLOCATIONS,27 - Other Expenses
+782011,2. Total Overhead Costs,18. Other Expenses,G & A ALLOC DIVERSIFIED,A - REVENUE / CHARGEBACK
+782018,2. Total Overhead Costs,18. Other Expenses,ORGANIC ALLOCATIONS,01 - Salaries
+782019,2. Total Overhead Costs,18. Other Expenses,PLANTAINS ALLOCATIONS,02 - Other Employee Benefits & Costs
+782020,2. Total Overhead Costs,18. Other Expenses,MISC DISCOUNTS,03 - Dues & Suscriptions
+782021,2. Total Overhead Costs,18. Other Expenses,Other Overhead,04 - Training Expenses
+782062,2. Total Overhead Costs,18. Other Expenses,FLIGHT PLAN AND COMM,05 - Travel & Meals Expenses
+782067,2. Total Overhead Costs,18. Other Expenses,PACKAGING MEETING EXPENSES,06 - Office Supplies
+782075,2. Total Overhead Costs,18. Other Expenses,ALLOCATION EXPENSES,07 - Telephone Usage
+785000,2. Total Overhead Costs,18. Other Expenses,G & A Costs (CC18),08 - Cellular Usage
+785008,2. Total Overhead Costs,18. Other Expenses,TAXIS & OTHER TRANSPORT,09 - Gasoline
+785009,2. Total Overhead Costs,18. Other Expenses,TAXIS & OTHER TRANSPORT,10 - Software Expense
+785015,2. Total Overhead Costs,18. Other Expenses,LEY PROTECCION AL TRABAJADOR,11 - Hardware Expense
+785020,2. Total Overhead Costs,18. Other Expenses,APARTMENT EXPENSES,11 - Cloud/Hosting Expense
+785050,2. Total Overhead Costs,18. Other Expenses,ABSORPTION OF I/C EXP,12 - Lease lines
+785072,2. Total Overhead Costs,18. Other Expenses,WELL MONITORY 0201-101-0002,13 - Radio Usage
+785073,2. Total Overhead Costs,18. Other Expenses,LICENSES,14 - Communications Equipment
+785075,2. Total Overhead Costs,18. Other Expenses,AGRICULTURAL TESTING,15 - Maintenance & Repairs IT
+785087,2. Total Overhead Costs,18. Other Expenses,MISC ADMIN EXP-DBCP,16 - Maintenance & Repairs Other
+785091,2. Total Overhead Costs,18. Other Expenses,Contingency research,17 - Equipment Rental
+785092,2. Total Overhead Costs,18. Other Expenses,Syngenta recovery,18 - Computer Rental
+785093,2. Total Overhead Costs,18. Other Expenses,Packaging allocation,19 - Communication Rental
+785094,2. Total Overhead Costs,18. Other Expenses,Allocation to DFFCO,20 - Other Rentals
+785096,2. Total Overhead Costs,18. Other Expenses,Flowers and others,21 - Consultant Fees
+785097,2. Total Overhead Costs,18. Other Expenses,Publication on New building,22 - Contract Labor and Temp Help
+785098,2. Total Overhead Costs,18. Other Expenses,INTERNATIONAL AIRPORT EXPENS,23 - Other Professional Services
+785099,2. Total Overhead Costs,18. Other Expenses,OTHER MISC ADM exp,24 - Depreciation Expenses
+785100,2. Total Overhead Costs,18. Other Expenses,TRACEABILITY PROJECT,25 - Other I/C Costs
+799599,2. Total Overhead Costs,18. Other Expenses,Uninsured Losses,26 - Other Service Cost
+895500,2. Total Overhead Costs,18. Other Expenses,Selling (CC18)-Non PR,27 - Other Expenses
+895507,2. Total Overhead Costs,18. Other Expenses,Selling- Miscellaneous,A - REVENUE / CHARGEBACK
+900000,2. Total Overhead Costs,18. Other Expenses,Other (Income) Expense - Net,01 - Salaries
+714009,2. Total Overhead Costs,18. Other Expenses,Registration Fees,02 - Other Employee Benefits & Costs
+714006,2. Total Overhead Costs,18. Other Expenses,Other Prof Services,03 - Dues & Suscriptions
+737076,2. Total Overhead Costs,18. Other Expenses,Moving Expenses,04 - Training Expenses
+782073,2. Total Overhead Costs,18. Other Expenses,ALLOCATION EXPENSES,05 - Travel & Meals Expenses
+785101,2. Total Overhead Costs,18. Other Expenses,CUOTA EUROPEA EXPENSES,06 - Office Supplies
+756515,2. Total Overhead Costs,18. Other Expenses,Timbre Educación y Cultura,07 - Telephone Usage
+782017,2. Total Overhead Costs,18. Other Expenses,Comisiones Bancarias,08 - Cellular Usage
+782094,2. Total Overhead Costs,18. Other Expenses,Cuenta Puenta,09 - Gasoline
+782099,2. Total Overhead Costs,18. Other Expenses,Gastos no Deducibles,10 - Software Expense
+725003,2. Total Overhead Costs,18. Other Expenses,Contingency,11 - Hardware Expense
+770001,2. Total Overhead Costs,18. Other Expenses,Other Administrative Costs,11 - Cloud/Hosting Expense
+782041,2. Total Overhead Costs,18. Other Expenses,Packaging Allocation,12 - Lease lines
+907010,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Transaction,13 - Radio Usage
+908010,2. Total Overhead Costs,18. Other Expenses,Gain/Loss Realized,14 - Communications Equipment
+503003,2. Total Overhead Costs,18. Other Expenses,Otros Ingresos y Gastos,15 - Maintenance & Repairs IT
+908012,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Transaction -Aut.,16 - Maintenance & Repairs Other
+908013,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Transaction -Adj.,17 - Equipment Rental
+907001,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Transaction,18 - Computer Rental
+754101,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,19 - Communication Rental
+754104,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,20 - Other Rentals
+908011,2. Total Overhead Costs,18. Other Expenses,Curr Translation Colones,21 - Consultant Fees
+782033,2. Total Overhead Costs,18. Other Expenses,Torre Mercedes Def Credit,22 - Contract Labor and Temp Help
+841005,2. Total Overhead Costs,18. Other Expenses,Trade Rec. Bad Debt Expense Geest,23 - Other Professional Services
+754201,2. Total Overhead Costs,18. Other Expenses,Gain/Loss Sale of Consolidated,24 - Depreciation Expenses
+737030,2. Total Overhead Costs,18. Other Expenses,IT Services,25 - Other I/C Costs
+913010,2. Total Overhead Costs,18. Other Expenses,Intereses Ganados,26 - Other Service Cost
+441092,2. Total Overhead Costs,18. Other Expenses,Servicios Administrativos,27 - Other Expenses
+442001,2. Total Overhead Costs,18. Other Expenses,Administrative Services,A - REVENUE / CHARGEBACK
+782034,2. Total Overhead Costs,18. Other Expenses,Office Services Allocation,01 - Salaries
+441006,2. Total Overhead Costs,18. Other Expenses,I/C Revenue,02 - Other Employee Benefits & Costs
+441010,2. Total Overhead Costs,18. Other Expenses,I/C Sales,03 - Dues & Suscriptions
+509017,2. Total Overhead Costs,18. Other Expenses,DFFI Administrative Expenses,04 - Training Expenses
+917005,2. Total Overhead Costs,18. Other Expenses,I/C Interest Expenses,05 - Travel & Meals Expenses
+509055,2. Total Overhead Costs,18. Other Expenses,Transfer Cost,06 - Office Supplies
+509026,2. Total Overhead Costs,18. Other Expenses,I/C DBS IT Services,07 - Telephone Usage
+509060,2. Total Overhead Costs,18. Other Expenses,Commission Expense,08 - Cellular Usage
+782035,2. Total Overhead Costs,18. Other Expenses,Office Services Allocation,09 - Gasoline
+782046,2. Total Overhead Costs,18. Other Expenses,Alloc charges from d,10 - Software Expense
+925005,2. Total Overhead Costs,18. Other Expenses,Capital Lease Int.Ex,11 - Hardware Expense
+931002,2. Total Overhead Costs,18. Other Expenses,Int Exp Non Cash Cap,11 - Cloud/Hosting Expense
+782053,2. Total Overhead Costs,18. Other Expenses,DBS PURCH ALLOCATION,12 - Lease lines
+782064,2. Total Overhead Costs,18. Other Expenses,Allocated Expenses 753,13 - Radio Usage
+782072,2. Total Overhead Costs,18. Other Expenses,Allocated Expenses 706,14 - Communications Equipment
+782078,2. Total Overhead Costs,18. Other Expenses,752 ALLOCATION,15 - Maintenance & Repairs IT
+785102,2. Total Overhead Costs,18. Other Expenses,Misc Non Deductible,16 - Maintenance & Repairs Other
+785103,2. Total Overhead Costs,18. Other Expenses,Carbon Neutral,17 - Equipment Rental
+781034,2. Total Overhead Costs,18. Other Expenses,EMPLOYEE RECREATION,18 - Computer Rental
+782079,2. Total Overhead Costs,18. Other Expenses,766 ALLOCATION,19 - Communication Rental
+782059,2. Total Overhead Costs,18. Other Expenses,Accounting Support Allocation,20 - Other Rentals
+737078,2. Total Overhead Costs,18. Other Expenses,IT Services from DBS,21 - Consultant Fees
+782057,2. Total Overhead Costs,18. Other Expenses,DBS SUPPORT ALLOCATION,22 - Contract Labor and Temp Help
+782068,2. Total Overhead Costs,18. Other Expenses,DBS CC ALLOCATION,23 - Other Professional Services
+785104,2. Total Overhead Costs,18. Other Expenses,Corporate Allocation,24 - Depreciation Expenses
+782082,2. Total Overhead Costs,18. Other Expenses,Misc. Admin Costs,25 - Other I/C Costs
+782083,2. Total Overhead Costs,18. Other Expenses,DBS CC ALLOCATION,26 - Other Service Cost
+782084,2. Total Overhead Costs,18. Other Expenses,DBS CC ALLOCATION,27 - Other Expenses
+782085,2. Total Overhead Costs,18. Other Expenses,TREASURY ALLOCATION,A - REVENUE / CHARGEBACK
+782086,2. Total Overhead Costs,18. Other Expenses,ALLOCATION EXPENSES,01 - Salaries
+960001,2. Total Overhead Costs,18. Other Expenses,Non US Tax - Costa Rica,02 - Other Employee Benefits & Costs
+782089,2. Total Overhead Costs,18. Other Expenses,SFCR Security Services,03 - Dues & Suscriptions
+782090,2. Total Overhead Costs,18. Other Expenses,DBS Purschasing PCARD,04 - Training Expenses
+432006,2. Total Overhead Costs,18. Other Expenses,Rev DBS Services,05 - Travel & Meals Expenses
+782091,2. Total Overhead Costs,18. Other Expenses,AFC Pines G&A Allocation,06 - Office Supplies
+779008,2. Total Overhead Costs,18. Other Expenses,Minor Cash Differences,07 - Telephone Usage
+782092,2. Total Overhead Costs,18. Other Expenses,ALLOCATION EXP FOR DBS,08 - Cellular Usage
+432008,2. Total Overhead Costs,18. Other Expenses,DFFI SERV REVENUE,09 - Gasoline
+782100,2. Total Overhead Costs,18. Other Expenses,DBS Pending Invoices,10 - Software Expense
+782071,2. Total Overhead Costs,18. Other Expenses,Building Allocation,11 - Hardware Expense
+737083,2. Total Overhead Costs,18. Other Expenses,DBS Treasury Services,11 - Cloud/Hosting Expense
+782101,2. Total Overhead Costs,18. Other Expenses,HR Payroll Allocation,12 - Lease lines
+774001,2. Total Overhead Costs,18. Other Expenses,Chartbl Non-Cash Donations and Contributions,13 - Radio Usage
+603006,2. Total Overhead Costs,18. Other Expenses,Paper Extraordinary,14 - Communications Equipment
+908014,2. Total Overhead Costs,18. Other Expenses,Gain/Loss - UNREALIZ,15 - Maintenance & Repairs IT
+773001,2. Total Overhead Costs,18. Other Expenses,Other Cash Don&Con,16 - Maintenance & Repairs Other
+782104,2. Total Overhead Costs,18. Other Expenses,ALLOC CC HR,17 - Equipment Rental
+782105,2. Total Overhead Costs,18. Other Expenses,ALLOC CC HR other Ex,18 - Computer Rental
+782049,2. Total Overhead Costs,18. Other Expenses,Admin Expenses Exp. T,19 - Communication Rental
+785086,2. Total Overhead Costs,18. Other Expenses,Gastos No Deducibles,20 - Other Rentals
+908402,2. Total Overhead Costs,18. Other Expenses,Fr Cur Hedging-Rea CR,21 - Consultant Fees
+432005,2. Total Overhead Costs,18. Other Expenses,Other Rev,22 - Contract Labor and Temp Help
+782107,2. Total Overhead Costs,18. Other Expenses,IT PORTAL RENEW(DEP),23 - Other Professional Services
+777098,2. Total Overhead Costs,18. Other Expenses,CONTRIBUTIONS NON DEDUCTIBLE,24 - Depreciation Expenses
+963010,2. Total Overhead Costs,18. Other Expenses,Income Tax Expense,25 - Other I/C Costs
+799601,2. Total Overhead Costs,18. Other Expenses,TRAVEL INSURANCE,26 - Other Service Cost
+754501,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,27 - Other Expenses
+754601,2. Total Overhead Costs,18. Other Expenses,GL Sale Lease,A - REVENUE / CHARGEBACK
+726001,2. Total Overhead Costs,18. Other Expenses,Servicios de Limpieza,01 - Salaries
+931001,2. Total Overhead Costs,18. Other Expenses,Int Exp Non Cash,02 - Other Employee Benefits & Costs
+841001,2. Total Overhead Costs,18. Other Expenses,Trade Rec. Bad Debt Expense,03 - Dues & Suscriptions
+843001,2. Total Overhead Costs,18. Other Expenses,A/R Bad Debt Exp.,04 - Training Expenses
+725004,2. Total Overhead Costs,18. Other Expenses,Security Equipment,05 - Travel & Meals Expenses
+785105,2. Total Overhead Costs,18. Other Expenses,DHM/Security Allocation,06 - Office Supplies
+785106,2. Total Overhead Costs,18. Other Expenses,Quality Allocation,07 - Telephone Usage
+785107,2. Total Overhead Costs,18. Other Expenses,SFCR JSOLIS Security allocation,08 - Cellular Usage
+785108,2. Total Overhead Costs,18. Other Expenses,Cost of documentation,09 - Gasoline
+782112,2. Total Overhead Costs,18. Other Expenses,General Storage,10 - Software Expense
+782111,2. Total Overhead Costs,18. Other Expenses,18. Other Expenses,11 - Hardware Expense
+785109,2. Total Overhead Costs,18. Other Expenses,PCard Rebate,11 - Cloud/Hosting Expense
+782113,2. Total Overhead Costs,18. Other Expenses,Administrative Services,12 - Lease lines
+509042,2. Total Overhead Costs,18. Other Expenses,Costo de servicios Relacionada,13 - Radio Usage
+782114,2. Total Overhead Costs,18. Other Expenses,Almacenamiento de documentos,14 - Communications Equipment
+779009,2. Total Overhead Costs,18. Other Expenses,HONORARIOS FIDUCIARIOS,15 - Maintenance & Repairs IT
+782115,2. Total Overhead Costs,18. Other Expenses,Corporate IT Allocation,16 - Maintenance & Repairs Other
+761005,2. Total Overhead Costs,18. Other Expenses,Mileage,17 - Equipment Rental
+779012,2. Total Overhead Costs,18. Other Expenses,PENNY TEST,18 - Computer Rental
+509000,2. Total Overhead Costs,18. Other Expenses,I/C Cost,19 - Communication Rental
+509001,2. Total Overhead Costs,18. Other Expenses,Related Cost,20 - Other Rentals
+725000,2. Total Overhead Costs,18. Other Expenses,Security Service Expenses,21 - Consultant Fees
+726000,2. Total Overhead Costs,18. Other Expenses,Janitorial Service Expense,22 - Contract Labor and Temp Help
+754100,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,23 - Other Professional Services
+801500,2. Total Overhead Costs,18. Other Expenses,Advertising Media Expense,24 - Depreciation Expenses
+809000,2. Total Overhead Costs,18. Other Expenses,Advertising Agency Fees,25 - Other I/C Costs
+810000,2. Total Overhead Costs,18. Other Expenses,Other Advertising Expenses,26 - Other Service Cost
+815000,2. Total Overhead Costs,18. Other Expenses,In Store Sampling Expense,27 - Other Expenses
+820000,2. Total Overhead Costs,18. Other Expenses,Other Trade Promotion Ex,A - REVENUE / CHARGEBACK
+822500,2. Total Overhead Costs,18. Other Expenses,Sales Aids/Point of Sales,01 - Salaries
+823500,2. Total Overhead Costs,18. Other Expenses,Other Merchandising Exp,02 - Other Employee Benefits & Costs
+826000,2. Total Overhead Costs,18. Other Expenses,Co Sponsord Mktg-Hospitlty,03 - Dues & Suscriptions
+830000,2. Total Overhead Costs,18. Other Expenses,Other Mktg-Nutrition,04 - Training Expenses
+830500,2. Total Overhead Costs,18. Other Expenses,Misc Marketing Expense,05 - Travel & Meals Expenses
+907000,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Translation,06 - Office Supplies
+908000,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Translation,07 - Telephone Usage
+782116,2. Total Overhead Costs,18. Other Expenses,IT staff backfill,08 - Cellular Usage
+782117,2. Total Overhead Costs,18. Other Expenses,Payroll recharge,09 - Gasoline
+509044,2. Total Overhead Costs,18. Other Expenses,ERP Project IC charge,10 - Software Expense
+782119,2. Total Overhead Costs,18. Other Expenses,DSS ERP ALLOCATION,11 - Hardware Expense
+744516,2. Total Overhead Costs,18. Other Expenses,Photocopier Rental,11 - Cloud/Hosting Expense
+782120,2. Total Overhead Costs,18. Other Expenses,ALLOC Social Responsability,12 - Lease lines
+923001,2. Total Overhead Costs,18. Other Expenses,Int Exp Cash-Cap Int,13 - Radio Usage
+835001,2. Total Overhead Costs,18. Other Expenses,Marketing Costs,14 - Communications Equipment
+782122,2. Total Overhead Costs,18. Other Expenses,COVID Allocation,15 - Maintenance & Repairs IT
+509036,2. Total Overhead Costs,18. Other Expenses,I/C Servicios Administrativos,16 - Maintenance & Repairs Other
+637024,2. Total Overhead Costs,18. Other Expenses,Covid-19 Tests,17 - Equipment Rental
+782123,2. Total Overhead Costs,18. Other Expenses,Director's Compensation,18 - Computer Rental
