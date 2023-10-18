@@ -1,0 +1,717 @@
+﻿ACCOUNT,GL_L1,GL_L2,GL_L3,ITFM_CATEGORY
+545002,1. Total Employee Costs,1. Salaries Dollars,SALARIES DOLLAR EMPLOYEES,01 - Salaries
+545005,1. Total Employee Costs,1. Salaries Dollars,HYPO TAX,02 - Other Employee Benefits & Costs
+546505,1. Total Employee Costs,1. Salaries Dollars,Long Term Incentive,02 - Other Employee Benefits & Costs
+548000,1. Total Employee Costs,1. Salaries Dollars,Payroll Tax Expense,02 - Other Employee Benefits & Costs
+548500,1. Total Employee Costs,1. Salaries Dollars,Payroll Tax Expense - U.S.,02 - Other Employee Benefits & Costs
+548504,1. Total Employee Costs,1. Salaries Dollars,FICA TAXES,02 - Other Employee Benefits & Costs
+548505,1. Total Employee Costs,1. Salaries Dollars,FUI & SUI,02 - Other Employee Benefits & Costs
+548509,1. Total Employee Costs,1. Salaries Dollars,TAX EQUALIZATION,02 - Other Employee Benefits & Costs
+549000,1. Total Employee Costs,1. Salaries Dollars,Payroll Tax Expense - Non U.,02 - Other Employee Benefits & Costs
+782097,1. Total Employee Costs,1. Salaries Dollars,Intercompany Transfer - Salaries,01 - Salaries
+548506,1. Total Employee Costs,1. Salaries Dollars,FED & STATE UEMPLOY,02 - Other Employee Benefits & Costs
+545000,1. Total Employee Costs,1. Salaries Dollars,Regular Pay - Salaried,01 - Salaries
+545001,1. Total Employee Costs,2. Salaries Colones,SALARIES,01 - Salaries
+546000,1. Total Employee Costs,2. Salaries Colones,Overtime - Salaried,01 - Salaries
+546002,1. Total Employee Costs,2. Salaries Colones,OVERTIME,01 - Salaries
+546500,1. Total Employee Costs,2. Salaries Colones,Bonus - Salaried (tied to pe,01 - Salaries
+546519,1. Total Employee Costs,2. Salaries Colones,VACATION BONUS,02 - Other Employee Benefits & Costs
+546521,1. Total Employee Costs,2. Salaries Colones,TEMP CLERICAL SERVICES,02 - Other Employee Benefits & Costs
+546502,1. Total Employee Costs,2. Salaries Colones,Bonus,01 - Salaries
+546503,1. Total Employee Costs,2. Salaries Colones,Bonus Local,01 - Salaries
+546510,1. Total Employee Costs,2. Salaries Colones,Bonus Colones,01 - Salaries
+545006,1. Total Employee Costs,2. Salaries Colones,Overtime 1.5,01 - Salaries
+545007,1. Total Employee Costs,2. Salaries Colones,Overtime 2,01 - Salaries
+545011,1. Total Employee Costs,2. Salaries Colones,Salarios - Bonos,01 - Salaries
+546520,1. Total Employee Costs,2. Salaries Colones,VACATION BONUS,02 - Other Employee Benefits & Costs
+545004,1. Total Employee Costs,2. Salaries Colones,REINTEGRO DE INCAPACIDAD,02 - Other Employee Benefits & Costs
+546006,1. Total Employee Costs,2. Salaries Colones,OVERTIME 1.5,01 - Salaries
+546007,1. Total Employee Costs,2. Salaries Colones,OVERTIME 2,01 - Salaries
+549001,1. Total Employee Costs,3. Social Security,ENFERMEDAD Y MATERNIDAD,02 - Other Employee Benefits & Costs
+549002,1. Total Employee Costs,3. Social Security,"INVALIDEZ, VEJEZ Y MUERTE",02 - Other Employee Benefits & Costs
+549003,1. Total Employee Costs,3. Social Security,ASIGNACIONES FAMILIARES,02 - Other Employee Benefits & Costs
+549004,1. Total Employee Costs,3. Social Security,INA,02 - Other Employee Benefits & Costs
+549005,1. Total Employee Costs,3. Social Security,IMAS,02 - Other Employee Benefits & Costs
+549006,1. Total Employee Costs,3. Social Security,BANCO POPULAR,02 - Other Employee Benefits & Costs
+549007,1. Total Employee Costs,3. Social Security,FONDO DE CAPITALIZACION LABORA,02 - Other Employee Benefits & Costs
+549008,1. Total Employee Costs,3. Social Security,PENSION COMPLEMENTARIA OBLIGAT,02 - Other Employee Benefits & Costs
+549016,1. Total Employee Costs,3. Social Security,SEGURO SOCIAL,02 - Other Employee Benefits & Costs
+549017,1. Total Employee Costs,3. Social Security,EE SEGURO SOCIAL,02 - Other Employee Benefits & Costs
+550000,1. Total Employee Costs,3. Social Security,Other Payroll Costs,02 - Other Employee Benefits & Costs
+556002,1. Total Employee Costs,3. Social Security,"INVALIDEZ, VEJEZ Y MUERTE",02 - Other Employee Benefits & Costs
+556003,1. Total Employee Costs,3. Social Security,Fondo Capitalización,02 - Other Employee Benefits & Costs
+556004,1. Total Employee Costs,3. Social Security,Pensión Comp. Obligatoria,02 - Other Employee Benefits & Costs
+549009,1. Total Employee Costs,3. Social Security,Payroll Tax Expenses,02 - Other Employee Benefits & Costs
+549011,1. Total Employee Costs,3. Social Security,ENFERMEDAD Y MATERNIDAD IME'S,NO IDENTIFICADO
+549013,1. Total Employee Costs,3. Social Security,Social Taxes,NO IDENTIFICADO
+550003,1. Total Employee Costs,3. Social Security,Asociación Solidarista,02 - Other Employee Benefits & Costs
+550004,1. Total Employee Costs,3. Social Security,Devolucion Impuesto,02 - Other Employee Benefits & Costs
+550005,1. Total Employee Costs,3. Social Security,Maternal Indemnity,02 - Other Employee Benefits & Costs
+550001,1. Total Employee Costs,4. Other Employee Costs,Stock options,02 - Other Employee Benefits & Costs
+550701,1. Total Employee Costs,4. Other Employee Costs,Stock options,02 - Other Employee Benefits & Costs
+551000,1. Total Employee Costs,4. Other Employee Costs,Employee Benefit Costs,02 - Other Employee Benefits & Costs
+552000,1. Total Employee Costs,4. Other Employee Costs,Pension Costs,02 - Other Employee Benefits & Costs
+553000,1. Total Employee Costs,4. Other Employee Costs,Pension Costs - Corporate Co,02 - Other Employee Benefits & Costs
+553500,1. Total Employee Costs,4. Other Employee Costs,Pension Costs - Corporate Co,02 - Other Employee Benefits & Costs
+553502,1. Total Employee Costs,4. Other Employee Costs,PLAN 29,02 - Other Employee Benefits & Costs
+553505,1. Total Employee Costs,4. Other Employee Costs,GRSP,02 - Other Employee Benefits & Costs
+553510,1. Total Employee Costs,4. Other Employee Costs,Pension Trust Funding,02 - Other Employee Benefits & Costs
+553511,1. Total Employee Costs,4. Other Employee Costs,PENSION FUND 98 FOREIGN,02 - Other Employee Benefits & Costs
+554001,1. Total Employee Costs,4. Other Employee Costs,PENSION FUND 98 FOREIGN,02 - Other Employee Benefits & Costs
+554002,1. Total Employee Costs,4. Other Employee Costs,SERP DFFI,02 - Other Employee Benefits & Costs
+556001,1. Total Employee Costs,4. Other Employee Costs,PENSION TRUST SAVINGS,02 - Other Employee Benefits & Costs
+557000,1. Total Employee Costs,4. Other Employee Costs,Severance Pymts,02 - Other Employee Benefits & Costs
+557001,1. Total Employee Costs,4. Other Employee Costs,Severance Pymts,02 - Other Employee Benefits & Costs
+557002,1. Total Employee Costs,4. Other Employee Costs,Severance Non Deductible,NO IDENTIFICADO
+557051,1. Total Employee Costs,4. Other Employee Costs,SEVERENCE INDEMNITY,02 - Other Employee Benefits & Costs
+558000,1. Total Employee Costs,4. Other Employee Costs,Deferred Compensation,02 - Other Employee Benefits & Costs
+559000,1. Total Employee Costs,4. Other Employee Costs,Deferred Compensation - 401(k),02 - Other Employee Benefits & Costs
+559005,1. Total Employee Costs,4. Other Employee Costs,GRSP,02 - Other Employee Benefits & Costs
+559006,1. Total Employee Costs,4. Other Employee Costs,GRSP BASIC RATE,02 - Other Employee Benefits & Costs
+559011,1. Total Employee Costs,4. Other Employee Costs,401K PLAN,02 - Other Employee Benefits & Costs
+560000,1. Total Employee Costs,4. Other Employee Costs,Othr Def Comp Programs,02 - Other Employee Benefits & Costs
+560001,1. Total Employee Costs,4. Other Employee Costs,excess saving plan,02 - Other Employee Benefits & Costs
+561000,1. Total Employee Costs,4. Other Employee Costs,Postretirement Benefit Costs,02 - Other Employee Benefits & Costs
+561031,1. Total Employee Costs,4. Other Employee Costs,ACTIVE POST-RETMT MED,02 - Other Employee Benefits & Costs
+562000,1. Total Employee Costs,4. Other Employee Costs,Employee Insurance Expense,02 - Other Employee Benefits & Costs
+563000,1. Total Employee Costs,4. Other Employee Costs,Medical and Dental Insurance,02 - Other Employee Benefits & Costs
+563500,1. Total Employee Costs,4. Other Employee Costs,Medical Insurance Expense,02 - Other Employee Benefits & Costs
+563523,1. Total Employee Costs,4. Other Employee Costs,GROUP MEDICAL,02 - Other Employee Benefits & Costs
+563528,1. Total Employee Costs,4. Other Employee Costs,Other Medical expenses,02 - Other Employee Benefits & Costs
+564000,1. Total Employee Costs,4. Other Employee Costs,Dental Insurance Expense,02 - Other Employee Benefits & Costs
+564023,1. Total Employee Costs,4. Other Employee Costs,GROUP DENTAL,02 - Other Employee Benefits & Costs
+565500,1. Total Employee Costs,4. Other Employee Costs,Group Life Insurance Expense,02 - Other Employee Benefits & Costs
+565522,1. Total Employee Costs,4. Other Employee Costs,GROUP LIFE INSURANCE,02 - Other Employee Benefits & Costs
+566500,1. Total Employee Costs,4. Other Employee Costs,AD & D (Accidental Death & D,02 - Other Employee Benefits & Costs
+566525,1. Total Employee Costs,4. Other Employee Costs,ACCIDENT INSURANCE,02 - Other Employee Benefits & Costs
+567500,1. Total Employee Costs,4. Other Employee Costs,Long-Term Disability Insuran,02 - Other Employee Benefits & Costs
+567524,1. Total Employee Costs,4. Other Employee Costs,GROUP L/T DISABILITY,02 - Other Employee Benefits & Costs
+568500,1. Total Employee Costs,4. Other Employee Costs,Survivors Insurance Expensen,02 - Other Employee Benefits & Costs
+568526,1. Total Employee Costs,4. Other Employee Costs,SURVIVORS INCOME,02 - Other Employee Benefits & Costs
+571500,1. Total Employee Costs,4. Other Employee Costs,Other Employee Benefit Costs,02 - Other Employee Benefits & Costs
+572500,1. Total Employee Costs,4. Other Employee Costs,Vacation Payee Benefit Costs,02 - Other Employee Benefits & Costs
+572502,1. Total Employee Costs,4. Other Employee Costs,Vacation Paid Benefit Cost,02 - Other Employee Benefits & Costs
+575500,1. Total Employee Costs,4. Other Employee Costs,Local Support Costs,02 - Other Employee Benefits & Costs
+577500,1. Total Employee Costs,4. Other Employee Costs,Other Local Support Costs,02 - Other Employee Benefits & Costs
+577501,1. Total Employee Costs,4. Other Employee Costs,Preaviso y Cesantia,02 - Other Employee Benefits & Costs
+577502,1. Total Employee Costs,4. Other Employee Costs,Aguinaldo,02 - Other Employee Benefits & Costs
+577505,1. Total Employee Costs,4. Other Employee Costs,Other local benefits,02 - Other Employee Benefits & Costs
+577506,1. Total Employee Costs,4. Other Employee Costs,13th Month Bonus,02 - Other Employee Benefits & Costs
+577507,1. Total Employee Costs,4. Other Employee Costs,Car Plan,NO IDENTIFICADO
+579500,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments,02 - Other Employee Benefits & Costs
+580000,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - H,02 - Other Employee Benefits & Costs
+580500,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - S,02 - Other Employee Benefits & Costs
+581000,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - H,02 - Other Employee Benefits & Costs
+581500,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - T,02 - Other Employee Benefits & Costs
+581524,1. Total Employee Costs,4. Other Employee Costs,TAX PREPARATION,02 - Other Employee Benefits & Costs
+582000,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - P,02 - Other Employee Benefits & Costs
+582047,1. Total Employee Costs,4. Other Employee Costs,MANAGEMENT FEES-HOUSING,02 - Other Employee Benefits & Costs
+582500,1. Total Employee Costs,4. Other Employee Costs,Foreign Support Payments - S,02 - Other Employee Benefits & Costs
+582530,1. Total Employee Costs,4. Other Employee Costs,WAREHOUSING & STORAGE,02 - Other Employee Benefits & Costs
+583000,1. Total Employee Costs,4. Other Employee Costs,Other Foreign Support Paymen,02 - Other Employee Benefits & Costs
+583006,1. Total Employee Costs,4. Other Employee Costs,BANK CHARGES,02 - Other Employee Benefits & Costs
+583055,1. Total Employee Costs,4. Other Employee Costs,VOLUNTARY EE'S ALLOW,02 - Other Employee Benefits & Costs
+583063,1. Total Employee Costs,4. Other Employee Costs,M & R-APPLIANCES,02 - Other Employee Benefits & Costs
+583064,1. Total Employee Costs,4. Other Employee Costs,M & R-HOUSES,02 - Other Employee Benefits & Costs
+583077,1. Total Employee Costs,4. Other Employee Costs,DEPRECIATION APPLIANCES,02 - Other Employee Benefits & Costs
+584000,1. Total Employee Costs,4. Other Employee Costs,Miscellaneous Employee Benef,02 - Other Employee Benefits & Costs
+584002,1. Total Employee Costs,4. Other Employee Costs,L.TERM/EXECUTIVE INCENTIVE,02 - Other Employee Benefits & Costs
+584003,1. Total Employee Costs,4. Other Employee Costs,BONUS $,02 - Other Employee Benefits & Costs
+584004,1. Total Employee Costs,4. Other Employee Costs,LOCAL MERIT,02 - Other Employee Benefits & Costs
+586000,1. Total Employee Costs,4. Other Employee Costs,Other Personnel Costs,02 - Other Employee Benefits & Costs
+587000,1. Total Employee Costs,4. Other Employee Costs,"Training, Certification, Con",04 - Training Expenses
+587002,1. Total Employee Costs,4. Other Employee Costs,TUITION REFUND,04 - Training Expenses
+587003,1. Total Employee Costs,4. Other Employee Costs,Education and Training,04 - Training Expenses
+590000,1. Total Employee Costs,4. Other Employee Costs,Recruitment Costs,02 - Other Employee Benefits & Costs
+590002,1. Total Employee Costs,4. Other Employee Costs,RECRUITING EXPENSES,02 - Other Employee Benefits & Costs
+591000,1. Total Employee Costs,4. Other Employee Costs,Miscellaneous Personnel Cost,02 - Other Employee Benefits & Costs
+591002,1. Total Employee Costs,4. Other Employee Costs,Repatriation expenses,02 - Other Employee Benefits & Costs
+591006,1. Total Employee Costs,4. Other Employee Costs,EMPLOYEE PHYSICALS,02 - Other Employee Benefits & Costs
+591099,1. Total Employee Costs,4. Other Employee Costs,OTHER PERSONAL COST,02 - Other Employee Benefits & Costs
+592000,1. Total Employee Costs,4. Other Employee Costs,Workers' Compensation/Medica,02 - Other Employee Benefits & Costs
+596000,1. Total Employee Costs,4. Other Employee Costs,Insured  Workers' Compensati,02 - Other Employee Benefits & Costs
+596073,1. Total Employee Costs,4. Other Employee Costs,W/C INSURANCE,02 - Other Employee Benefits & Costs
+781032,1. Total Employee Costs,4. Other Employee Costs,EMPLOYEE RECREATION,02 - Other Employee Benefits & Costs
+584001,1. Total Employee Costs,4. Other Employee Costs,Misc. Employee Benef Cost,02 - Other Employee Benefits & Costs
+584009,1. Total Employee Costs,4. Other Employee Costs,Misc. Employee Benef Cost,02 - Other Employee Benefits & Costs
+560002,1. Total Employee Costs,4. Other Employee Costs,Profit Sharing,02 - Other Employee Benefits & Costs
+781033,1. Total Employee Costs,4. Other Employee Costs,Motivational Expenses,02 - Other Employee Benefits & Costs
+585006,1. Total Employee Costs,4. Other Employee Costs,Temporary Services Students,02 - Other Employee Benefits & Costs
+587012,1. Total Employee Costs,4. Other Employee Costs,Education and Training Provision,04 - Training Expenses
+587004,1. Total Employee Costs,4. Other Employee Costs,Training Succession Planning,04 - Training Expenses
+587006,1. Total Employee Costs,4. Other Employee Costs,FACE Project,04 - Training Expenses
+559007,1. Total Employee Costs,4. Other Employee Costs,GRSP NEW 2010,02 - Other Employee Benefits & Costs
+559008,1. Total Employee Costs,4. Other Employee Costs,BN VITAL,02 - Other Employee Benefits & Costs
+559009,1. Total Employee Costs,4. Other Employee Costs,BN VITAL BASICO,02 - Other Employee Benefits & Costs
+559012,1. Total Employee Costs,4. Other Employee Costs,BN VITAL Bono,02 - Other Employee Benefits & Costs
+559010,1. Total Employee Costs,4. Other Employee Costs,BN VITAL Not Deductible,NO IDENTIFICADO
+545008,1. Total Employee Costs,4. Other Employee Costs,Oncall Benefit,02 - Other Employee Benefits & Costs
+563517,1. Total Employee Costs,4. Other Employee Costs,Medical Expense SFCR,02 - Other Employee Benefits & Costs
+563518,1. Total Employee Costs,4. Other Employee Costs,IME Medical,NO IDENTIFICADO
+563519,1. Total Employee Costs,4. Other Employee Costs,Beneficio de Maternidad,02 - Other Employee Benefits & Costs
+563520,1. Total Employee Costs,4. Other Employee Costs,Emergencias medica,02 - Other Employee Benefits & Costs
+563521,1. Total Employee Costs,4. Other Employee Costs,Responsabilidad Civil,02 - Other Employee Benefits & Costs
+563522,1. Total Employee Costs,4. Other Employee Costs,Riesgos del Trabajador,02 - Other Employee Benefits & Costs
+565523,1. Total Employee Costs,4. Other Employee Costs,TOTAL PERMANENT DISABILITY,02 - Other Employee Benefits & Costs
+563524,1. Total Employee Costs,4. Other Employee Costs,PROSALUD GROUP MEDICAL,02 - Other Employee Benefits & Costs
+580506,1. Total Employee Costs,4. Other Employee Costs,FED & STATE UEMPLOY,NO IDENTIFICADO
+591030,1. Total Employee Costs,4. Other Employee Costs,Due & 8. Subscriptions,02 - Other Employee Benefits & Costs
+565524,1. Total Employee Costs,4. Other Employee Costs,Medical Insurance Expense,02 - Other Employee Benefits & Costs
+577503,1. Total Employee Costs,4. Other Employee Costs,Aguinaldo Allocation,02 - Other Employee Benefits & Costs
+572503,1. Total Employee Costs,4. Other Employee Costs,Accrued Vacation,02 - Other Employee Benefits & Costs
+589001,1. Total Employee Costs,4. Other Employee Costs,Reloaction Cost,02 - Other Employee Benefits & Costs
+572504,1. Total Employee Costs,4. Other Employee Costs,Accrued Vacation,02 - Other Employee Benefits & Costs
+554003,1. Total Employee Costs,4. Other Employee Costs,SERP DFFI Adm,02 - Other Employee Benefits & Costs
+587007,1. Total Employee Costs,4. Other Employee Costs,16. Training Expenses - Beca,04 - Training Expenses
+584005,1. Total Employee Costs,4. Other Employee Costs,Bonus Adj,02 - Other Employee Benefits & Costs
+557003,1. Total Employee Costs,4. Other Employee Costs,Enhanced Severance,02 - Other Employee Benefits & Costs
+569501,1. Total Employee Costs,4. Other Employee Costs,Insurance Travel Expense,02 - Other Employee Benefits & Costs
+563526,1. Total Employee Costs,4. Other Employee Costs,ADISA MEDICAL,02 - Other Employee Benefits & Costs
+563527,1. Total Employee Costs,4. Other Employee Costs,Gastos Medicos no Deducibles,NO IDENTIFICADO
+587008,1. Total Employee Costs,4. Other Employee Costs,Capacitacion y Entretenimiento,04 - Training Expenses
+577001,1. Total Employee Costs,4. Other Employee Costs,Ayuda a Hijos,02 - Other Employee Benefits & Costs
+584013,1. Total Employee Costs,4. Other Employee Costs,Bonus Long Term,02 - Other Employee Benefits & Costs
+562502,1. Total Employee Costs,4. Other Employee Costs,Vacation Accrual,NO IDENTIFICADO
+545009,1. Total Employee Costs,4. Other Employee Costs,Licencia por maternidad,02 - Other Employee Benefits & Costs
+549025,1. Total Employee Costs,4. Other Employee Costs,Social Charges Bonus,02 - Other Employee Benefits & Costs
+556000,1. Total Employee Costs,4. Other Employee Costs,PENSION COST - LOCAL,02 - Other Employee Benefits & Costs
+569500,1. Total Employee Costs,4. Other Employee Costs,Other Insurance Expense,NO IDENTIFICADO
+585000,1. Total Employee Costs,4. Other Employee Costs,Contract Labor and Temporary,02 - Other Employee Benefits & Costs
+589000,1. Total Employee Costs,4. Other Employee Costs,Reloaction Cost,NO IDENTIFICADO
+587009,1. Total Employee Costs,4. Other Employee Costs,Scholarship Expenses not deductible,NO IDENTIFICADO
+591001,1. Total Employee Costs,4. Other Employee Costs,Other Employee Benefits,02 - Other Employee Benefits & Costs
+549018,1. Total Employee Costs,5. IME'S Cost,CR INCOME TAX,02 - Other Employee Benefits & Costs
+580028,1. Total Employee Costs,5. IME'S Cost,HOUSING ALLOWANCE,02 - Other Employee Benefits & Costs
+580529,1. Total Employee Costs,5. IME'S Cost,SCHOOL TUITION,02 - Other Employee Benefits & Costs
+581027,1. Total Employee Costs,5. IME'S Cost,Home Leave,02 - Other Employee Benefits & Costs
+583046,1. Total Employee Costs,5. IME'S Cost,SECURITY SERVICES,02 - Other Employee Benefits & Costs
+583050,1. Total Employee Costs,5. IME'S Cost,RELOCATION & MOVING,02 - Other Employee Benefits & Costs
+583078,1. Total Employee Costs,5. IME'S Cost,AMORTIZE IME CAR/HHG,02 - Other Employee Benefits & Costs
+782076,1. Total Employee Costs,5. IME'S Cost,IMES costs allocation,02 - Other Employee Benefits & Costs
+549019,1. Total Employee Costs,5. IME'S Cost,CR INCOME TAX,02 - Other Employee Benefits & Costs
+580027,1. Total Employee Costs,5. IME'S Cost,CAR ALLOWANCE,02 - Other Employee Benefits & Costs
+549022,1. Total Employee Costs,5. IME'S Cost,Foreign Tax,02 - Other Employee Benefits & Costs
+549023,1. Total Employee Costs,5. IME'S Cost,CCSS NO DEDUCIBLE,NO IDENTIFICADO
+549024,1. Total Employee Costs,5. IME'S Cost,ISR no deducible,02 - Other Employee Benefits & Costs
+580029,1. Total Employee Costs,5. IME'S Cost,Special Allowance,NO IDENTIFICADO
+750000,2. Total Overhead Costs,6. Depreciation Expenses,Amortization and Depreciatio,24 - Depreciation Expenses
+750100,2. Total Overhead Costs,6. Depreciation Expenses,Amortization Exp,24 - Depreciation Expenses
+751500,2. Total Overhead Costs,6. Depreciation Expenses,Amort Exp-Other,24 - Depreciation Expenses
+751505,2. Total Overhead Costs,6. Depreciation Expenses,Amort Exp-Computer Software,24 - Depreciation Expenses
+752000,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense,24 - Depreciation Expenses
+752600,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense - Lease,24 - Depreciation Expenses
+752603,2. Total Overhead Costs,6. Depreciation Expenses,Dep Mej Propiedad,NO IDENTIFICADO
+752614,2. Total Overhead Costs,6. Depreciation Expenses,DEPR L/H IMPROVEMENT,24 - Depreciation Expenses
+752700,2. Total Overhead Costs,6. Depreciation Expenses,Depr Exp-Vessels & Cont,24 - Depreciation Expenses
+752705,2. Total Overhead Costs,6. Depreciation Expenses,Cont Deprec Exp,24 - Depreciation Expenses
+753000,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense - Machi,24 - Depreciation Expenses
+753010,2. Total Overhead Costs,6. Depreciation Expenses,Depr White Goods,24 - Depreciation Expenses
+753013,2. Total Overhead Costs,6. Depreciation Expenses,Depr Machinery and Equipme,24 - Depreciation Expenses
+753016,2. Total Overhead Costs,6. Depreciation Expenses,DEPR CARS,24 - Depreciation Expenses
+753019,2. Total Overhead Costs,6. Depreciation Expenses,DEPR OFFICE EQUIP,24 - Depreciation Expenses
+753200,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense - Commu,24 - Depreciation Expenses
+753205,2. Total Overhead Costs,6. Depreciation Expenses,DEPR COMPUTER SOFTWARE,24 - Depreciation Expenses
+753215,2. Total Overhead Costs,6. Depreciation Expenses,DEPR COMPUTERS,24 - Depreciation Expenses
+753216,2. Total Overhead Costs,6. Depreciation Expenses,DEP Comp HARD,NO IDENTIFICADO
+753500,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense - Other,24 - Depreciation Expenses
+753510,2. Total Overhead Costs,6. Depreciation Expenses,DEPRECIATION EXPENSE,24 - Depreciation Expenses
+785089,2. Total Overhead Costs,6. Depreciation Expenses,Divisions AS/400 depreciation,24 - Depreciation Expenses
+753210,2. Total Overhead Costs,6. Depreciation Expenses,Depr. Sis. Comunic. E IN.,24 - Depreciation Expenses
+752610,2. Total Overhead Costs,6. Depreciation Expenses,DEPR L/H IMPROVEMENT,24 - Depreciation Expenses
+753230,2. Total Overhead Costs,6. Depreciation Expenses,DEPR.SIS.COM.E INF.TRASP,24 - Depreciation Expenses
+752501,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Buildings,24 - Depreciation Expenses
+753030,2. Total Overhead Costs,6. Depreciation Expenses,DEPR Maquinaria y Equipos,24 - Depreciation Expenses
+753202,2. Total Overhead Costs,6. Depreciation Expenses,Dep AS/400 Capital Leases,24 - Depreciation Expenses
+753232,2. Total Overhead Costs,6. Depreciation Expenses,DEPR.EQCOMPUT.OUTS,24 - Depreciation Expenses
+753031,2. Total Overhead Costs,6. Depreciation Expenses,DEPR Maquinaria y Equipos (exonerado),24 - Depreciation Expenses
+646003,2. Total Overhead Costs,6. Depreciation Expenses,Software amortization,24 - Depreciation Expenses
+753211,2. Total Overhead Costs,6. Depreciation Expenses,Depr. Sis. Comunic. Inform,24 - Depreciation Expenses
+753233,2. Total Overhead Costs,6. Depreciation Expenses,DEPR.EQCOMPUT.EXON,24 - Depreciation Expenses
+753203,2. Total Overhead Costs,6. Depreciation Expenses,Capital Lease Depreciation,24 - Depreciation Expenses
+752630,2. Total Overhead Costs,6. Depreciation Expenses,DEPR MEJORES PROPIEDAD ALQUILADA,24 - Depreciation Expenses
+753501,2. Total Overhead Costs,6. Depreciation Expenses,Depreciation Expense - Capital Lease,24 - Depreciation Expenses
+753225,2. Total Overhead Costs,6. Depreciation Expenses,DEPRECIATION EXPENSE,24 - Depreciation Expenses
+753508,2. Total Overhead Costs,6. Depreciation Expenses,DEPR 2,24 - Depreciation Expenses
+753221,2. Total Overhead Costs,6. Depreciation Expenses,DEPRECIATION EXPENSE,24 - Depreciation Expenses
+753222,2. Total Overhead Costs,6. Depreciation Expenses,DEPRECIATION EXPENSE,24 - Depreciation Expenses
+753212,2. Total Overhead Costs,6. Depreciation Expenses,Dep. Comp. Hard. DP,24 - Depreciation Expenses
+753226,2. Total Overhead Costs,6. Depreciation Expenses,Dep. Comp. Hard. FP,24 - Depreciation Expenses
+753213,2. Total Overhead Costs,6. Depreciation Expenses,Dep.Soft.DP,24 - Depreciation Expenses
+753227,2. Total Overhead Costs,6. Depreciation Expenses,DEP.COMP.soft NE FP,24 - Depreciation Expenses
+753023,2. Total Overhead Costs,6. Depreciation Expenses,DEP OTRA M&E DP NE,24 - Depreciation Expenses
+753022,2. Total Overhead Costs,6. Depreciation Expenses,DEP Mobiliario DP NE,NO IDENTIFICADO
+752502,2. Total Overhead Costs,6. Depreciation Expenses,Gto Dep.Mejoras Edificio,24 - Depreciation Expenses
+753228,2. Total Overhead Costs,6. Depreciation Expenses,DEP.SOFT.BI DP NE,24 - Depreciation Expenses
+752503,2. Total Overhead Costs,6. Depreciation Expenses,Dep. on Improvement Expenses,NO IDENTIFICADO
+752504,2. Total Overhead Costs,6. Depreciation Expenses,DBS Mejoras Edificio,NO IDENTIFICADO
+753320,2. Total Overhead Costs,6. Depreciation Expenses,Deprec.Expeses Lease,24 - Depreciation Expenses
+753401,2. Total Overhead Costs,6. Depreciation Expenses,Depr Exp-Computer So,24 - Depreciation Expenses
+753402,2. Total Overhead Costs,6. Depreciation Expenses,Depr Soft BI  DP NE,NO IDENTIFICADO
+753416,2. Total Overhead Costs,6. Depreciation Expenses,Dep Software,NO IDENTIFICADO
+753305,2. Total Overhead Costs,6. Depreciation Expenses,DEPREC EXP-ROU ASS,NO IDENTIFICADO
+600000,2. Total Overhead Costs,7. Total Materials,Material Costs,27 - Other Expenses
+601000,2. Total Overhead Costs,7. Total Materials,Raw Materials,27 - Other Expenses
+606000,2. Total Overhead Costs,7. Total Materials,Malt,27 - Other Expenses
+606082,2. Total Overhead Costs,7. Total Materials,LUBRICANTS,27 - Other Expenses
+631000,2. Total Overhead Costs,7. Total Materials,"Fuel, Oil and Lubricants Exp",09 - Gasoline
+635000,2. Total Overhead Costs,7. Total Materials,Other Fuel Expense,09 - Gasoline
+635080,2. Total Overhead Costs,7. Total Materials,JET FUEL,09 - Gasoline
+637000,2. Total Overhead Costs,7. Total Materials,Office Supplies Expense,06 - Office Supplies
+637020,2. Total Overhead Costs,7. Total Materials,OFFICE SUPPLIES QSMS,06 - Office Supplies
+637021,2. Total Overhead Costs,7. Total Materials,SUPPLIES-MEDECINES,06 - Office Supplies
+637022,2. Total Overhead Costs,7. Total Materials,Data Center Supplies,06 - Office Supplies
+637026,2. Total Overhead Costs,7. Total Materials,Equipment purchase,06 - Office Supplies
+637040,2. Total Overhead Costs,7. Total Materials,SUPPLIES-UNIFORMS,06 - Office Supplies
+637050,2. Total Overhead Costs,7. Total Materials,SUPPLIES-TONNER,06 - Office Supplies
+637060,2. Total Overhead Costs,7. Total Materials,Supplies Building Maintenance,06 - Office Supplies
+637080,2. Total Overhead Costs,7. Total Materials,JET SUPPLIES,06 - Office Supplies
+637090,2. Total Overhead Costs,7. Total Materials,New Building-Equipment,06 - Office Supplies
+637501,2. Total Overhead Costs,7. Total Materials,PPE Non Cap,20 - Other Rentals
+638000,2. Total Overhead Costs,7. Total Materials,Computer Hardware and Softwa,11 - Hardware Expense
+641003,2. Total Overhead Costs,7. Total Materials,Hardware Expense - PC's,11 - Hardware Expense
+642001,2. Total Overhead Costs,7. Total Materials,Hardware Expense - Network,11 - Hardware Expense
+643000,2. Total Overhead Costs,7. Total Materials,Software Expense,10 - Software Expense
+644000,2. Total Overhead Costs,7. Total Materials,Software Expense - Midrange/,10 - Software Expense
+644071,2. Total Overhead Costs,7. Total Materials,AS/400 APPLN SOFTWARE,10 - Software Expense
+644072,2. Total Overhead Costs,7. Total Materials,SOFTWARE-MOD'S AS/400,10 - Software Expense
+644073,2. Total Overhead Costs,7. Total Materials,SOFTWARE-YEARLY MAINT,10 - Software Expense
+644074,2. Total Overhead Costs,7. Total Materials,Computer Hardware QSMS,10 - Software Expense
+644075,2. Total Overhead Costs,7. Total Materials,PC Software,10 - Software Expense
+644076,2. Total Overhead Costs,7. Total Materials,Sistem Maintenance,NO IDENTIFICADO
+646000,2. Total Overhead Costs,7. Total Materials,Software Expense - Network,10 - Software Expense
+646070,2. Total Overhead Costs,7. Total Materials,SOFTWARE-MICRO NETWORK,10 - Software Expense
+647000,2. Total Overhead Costs,7. Total Materials,Comm Equip Exp,14 - Communications Equipment
+647502,2. Total Overhead Costs,7. Total Materials,Storage Cloud Service,11 - Cloud/Hosting Expense
+647005,2. Total Overhead Costs,7. Total Materials,Equipment Lease/Purchase,14 - Communications Equipment
+652028,2. Total Overhead Costs,7. Total Materials,RESEARCH MATERIALS,27 - Other Expenses
+653000,2. Total Overhead Costs,7. Total Materials,M&R-Third Party,16 - Maintenance & Repairs Other
+654000,2. Total Overhead Costs,7. Total Materials,M&R-Equipment,15 - Maintenance & Repairs IT
+654071,2. Total Overhead Costs,7. Total Materials,ROUTINE MAINT 100 HOURS,16 - Maintenance & Repairs Other
+654072,2. Total Overhead Costs,7. Total Materials,MAJOR OVERHAUL,16 - Maintenance & Repairs Other
+655000,2. Total Overhead Costs,7. Total Materials,M&R-Vehicles,16 - Maintenance & Repairs Other
+655062,2. Total Overhead Costs,7. Total Materials,MAJOR M & R-VEHICLES,16 - Maintenance & Repairs Other
+656000,2. Total Overhead Costs,7. Total Materials,M&R-Plant & Building,16 - Maintenance & Repairs Other
+656001,2. Total Overhead Costs,7. Total Materials,M&R-Torre Mercedes,16 - Maintenance & Repairs Other
+656055,2. Total Overhead Costs,7. Total Materials,M&R-Plant,16 - Maintenance & Repairs Other
+656099,2. Total Overhead Costs,7. Total Materials,M&R-Plant & Building,16 - Maintenance & Repairs Other
+656098,2. Total Overhead Costs,7. Total Materials,M&R-Plant & Building,NO IDENTIFICADO
+661000,2. Total Overhead Costs,7. Total Materials,M&R-Computer&Communication,15 - Maintenance & Repairs IT
+661099,2. Total Overhead Costs,7. Total Materials,M&R-Computer&Communication,15 - Maintenance & Repairs IT
+662000,2. Total Overhead Costs,7. Total Materials,M&R-Other,16 - Maintenance & Repairs Other
+662099,2. Total Overhead Costs,7. Total Materials,MAINTENANCE AND REPAIRS,16 - Maintenance & Repairs Other
+680001,2. Total Overhead Costs,7. Total Materials,VESSEL COSTS - BANN,NO IDENTIFICADO
+700000,2. Total Overhead Costs,7. Total Materials,Utilities Expense,27 - Other Expenses
+701000,2. Total Overhead Costs,7. Total Materials,Utilities Exp-Power,27 - Other Expenses
+785074,2. Total Overhead Costs,7. Total Materials,FUEL AND LUBRICANTS,27 - Other Expenses
+637019,2. Total Overhead Costs,7. Total Materials,Office Supplies,NO IDENTIFICADO
+633010,2. Total Overhead Costs,7. Total Materials,Diesel,09 - Gasoline
+637013,2. Total Overhead Costs,7. Total Materials,Disp. de Almacén Eléctrico,06 - Office Supplies
+641011,2. Total Overhead Costs,7. Total Materials,Hardware Expense - PC's,11 - Hardware Expense
+647010,2. Total Overhead Costs,7. Total Materials,Comm. Equipment Expense,14 - Communications Equipment
+662014,2. Total Overhead Costs,7. Total Materials,Mantenimiento y Reparación,16 - Maintenance & Repairs Other
+782012,2. Total Overhead Costs,7. Total Materials,Equipo no Capitalizable,27 - Other Expenses
+782013,2. Total Overhead Costs,7. Total Materials,Furniture & Fixtures no Cap.,27 - Other Expenses
+654010,2. Total Overhead Costs,7. Total Materials,M&R-Equipment,15 - Maintenance & Repairs IT
+637004,2. Total Overhead Costs,7. Total Materials,Magnetic Cards,06 - Office Supplies
+652021,2. Total Overhead Costs,7. Total Materials,Materiales y Suministros Varios,27 - Other Expenses
+652013,2. Total Overhead Costs,7. Total Materials,Ajustes Inv. Fisico Audt.,27 - Other Expenses
+656002,2. Total Overhead Costs,7. Total Materials,DFFI Remodelaciones,NO IDENTIFICADO
+642002,2. Total Overhead Costs,7. Total Materials,Hardware Expense - AS/400,11 - Hardware Expense
+640001,2. Total Overhead Costs,7. Total Materials,Hrdwr Exp-Midrng/Mainfrm,11 - Hardware Expense
+646002,2. Total Overhead Costs,7. Total Materials,Software Maintenance,10 - Software Expense
+654012,2. Total Overhead Costs,7. Total Materials,M&R-Equipment,15 - Maintenance & Repairs IT
+654013,2. Total Overhead Costs,7. Total Materials,M&R-Equipment Non Deduc,15 - Maintenance & Repairs IT
+646001,2. Total Overhead Costs,7. Total Materials,Software Expense - Network,10 - Software Expense
+617001,2. Total Overhead Costs,7. Total Materials,Other Pack Materials,27 - Other Expenses
+645001,2. Total Overhead Costs,7. Total Materials,Software Expense,10 - Software Expense
+637025,2. Total Overhead Costs,7. Total Materials,Other Office Supplies,06 - Office Supplies
+656003,2. Total Overhead Costs,7. Total Materials,DFFI Remodelaciones,NO IDENTIFICADO
+641012,2. Total Overhead Costs,7. Total Materials,Equipment Supplies,11 - Hardware Expense
+641013,2. Total Overhead Costs,7. Total Materials,Equipment Supplies,NO IDENTIFICADO
+652017,2. Total Overhead Costs,7. Total Materials,Ajustes In. Físico,27 - Other Expenses
+644070,2. Total Overhead Costs,7. Total Materials,HFM Licenses,10 - Software Expense
+652010,2. Total Overhead Costs,7. Total Materials,Ajustes Generales de Inventario,27 - Other Expenses
+785077,2. Total Overhead Costs,7. Total Materials,FUEL AND LUBRICANTS non deductable,27 - Other Expenses
+630026,2. Total Overhead Costs,7. Total Materials,M&R Structure,16 - Maintenance & Repairs Other
+634001,2. Total Overhead Costs,7. Total Materials,Gasoline Fuel Expenses,NO IDENTIFICADO
+647501,2. Total Overhead Costs,7. Total Materials,Cloud Hosting services,11 - Cloud/Hosting Expense
+647002,2. Total Overhead Costs,7. Total Materials,Equipment Purchased,14 - Communications Equipment
+652031,2. Total Overhead Costs,7. Total Materials,Chemical Rebates,27 - Other Expenses
+644069,2. Total Overhead Costs,7. Total Materials,Software licenses,10 - Software Expense
+644002,2. Total Overhead Costs,7. Total Materials,Software Expenses,10 - Software Expense
+630000,2. Total Overhead Costs,7. Total Materials,Maintenance & Repair,NO IDENTIFICADO
+634000,2. Total Overhead Costs,7. Total Materials,Gasoline Fuel Expenses,NO IDENTIFICADO
+640000,2. Total Overhead Costs,7. Total Materials,Hrdwr Exp-Midrng/Mainfrm,NO IDENTIFICADO
+641000,2. Total Overhead Costs,7. Total Materials,Hardware Expense - PC's,11 - Hardware Expense
+642000,2. Total Overhead Costs,7. Total Materials,Hardware Expense - Network,NO IDENTIFICADO
+645000,2. Total Overhead Costs,7. Total Materials,Software Expense - PC,NO IDENTIFICADO
+652000,2. Total Overhead Costs,7. Total Materials,Misc. Materials Cost,27 - Other Expenses
+643001,2. Total Overhead Costs,7. Total Materials,Software Expense,10 - Software Expense
+637023,2. Total Overhead Costs,7. Total Materials,School Supplies,06 - Office Supplies
+782005,2. Total Overhead Costs,8. Subscriptions,8. Subscriptions,03 - Dues & Suscriptions
+785013,2. Total Overhead Costs,8. Subscriptions,DUES & 8. Subscriptions,03 - Dues & Suscriptions
+785014,2. Total Overhead Costs,8. Subscriptions,DUES & 8. Subscriptions,NO IDENTIFICADO
+782015,2. Total Overhead Costs,8. Subscriptions,8. Subscriptions,03 - Dues & Suscriptions
+711000,2. Total Overhead Costs,9. Consultant Fees,9. Consultant Fees,21 - Consultant Fees
+711010,2. Total Overhead Costs,9. Consultant Fees,CONSULTANTS,21 - Consultant Fees
+712000,2. Total Overhead Costs,9. Consultant Fees,Audit Fees,23 - Other Professional Services
+712005,2. Total Overhead Costs,9. Consultant Fees,AUDIT FEES,23 - Other Professional Services
+712006,2. Total Overhead Costs,9. Consultant Fees,AUDIT FEES,NO IDENTIFICADO
+713000,2. Total Overhead Costs,9. Consultant Fees,Legal Fees,23 - Other Professional Services
+713003,2. Total Overhead Costs,9. Consultant Fees,OUTSIDE LEGAL FEES,23 - Other Professional Services
+714000,2. Total Overhead Costs,9. Consultant Fees,Other Professional Services,23 - Other Professional Services
+782098,2. Total Overhead Costs,9. Consultant Fees,Outside Legal Cost Allocated,23 - Other Professional Services
+785088,2. Total Overhead Costs,9. Consultant Fees,DBCP Outside Legal Allocated,23 - Other Professional Services
+711011,2. Total Overhead Costs,9. Consultant Fees,9. Consultant Fees,21 - Consultant Fees
+713011,2. Total Overhead Costs,9. Consultant Fees,LEGAL FEES,23 - Other Professional Services
+714012,2. Total Overhead Costs,9. Consultant Fees,Other Professional Services,23 - Other Professional Services
+713002,2. Total Overhead Costs,9. Consultant Fees,Legal/Acct. Expense,23 - Other Professional Services
+785051,2. Total Overhead Costs,9. Consultant Fees,DBCP Transfruit charge,23 - Other Professional Services
+713004,2. Total Overhead Costs,9. Consultant Fees,DUK RESTRUCTURE OUT. LEGAL FEES,23 - Other Professional Services
+714001,2. Total Overhead Costs,9. Consultant Fees,Other Professional Services,23 - Other Professional Services
+713006,2. Total Overhead Costs,9. Consultant Fees,Legal Fees Litigation,23 - Other Professional Services
+704000,2. Total Overhead Costs,10. Communications Services,Communications Expense,14 - Communications Equipment
+705000,2. Total Overhead Costs,10. Communications Services,Lease Lines Comm Exp,12 - Lease lines
+705002,2. Total Overhead Costs,10. Communications Services,Internet connections,12 - Lease lines
+705005,2. Total Overhead Costs,10. Communications Services,Lease Lines,12 - Lease lines
+706000,2. Total Overhead Costs,10. Communications Services,Usage Communications Expense,14 - Communications Equipment
+706500,2. Total Overhead Costs,10. Communications Services,Telephone Usage Communicatio,07 - Telephone Usage
+706510,2. Total Overhead Costs,10. Communications Services,TELEPHONE,07 - Telephone Usage
+706511,2. Total Overhead Costs,10. Communications Services,DEDICATED PHONE LINE,07 - Telephone Usage
+706512,2. Total Overhead Costs,10. Communications Services,FAX LINES,07 - Telephone Usage
+706513,2. Total Overhead Costs,10. Communications Services,TELEX,07 - Telephone Usage
+706514,2. Total Overhead Costs,10. Communications Services,ELECTRONIC MAIL BOX,07 - Telephone Usage
+706515,2. Total Overhead Costs,10. Communications Services,BEEPERS,07 - Telephone Usage
+706516,2. Total Overhead Costs,10. Communications Services,CALLING CARDS,07 - Telephone Usage
+706520,2. Total Overhead Costs,10. Communications Services,RADIOS,13 - Radio Usage
+706521,2. Total Overhead Costs,10. Communications Services,CABLE TV CONNECTION,27 - Other Expenses
+706540,2. Total Overhead Costs,10. Communications Services,PRISM DATA COMM,27 - Other Expenses
+707000,2. Total Overhead Costs,10. Communications Services,Cellular Usage Communication,08 - Cellular Usage
+707015,2. Total Overhead Costs,10. Communications Services,CELLULAR TELEPHONES,08 - Cellular Usage
+710000,2. Total Overhead Costs,10. Communications Services,Service Costs,27 - Other Expenses
+705003,2. Total Overhead Costs,10. Communications Services,Lease Lines Frame Relay,12 - Lease lines
+705006,2. Total Overhead Costs,10. Communications Services,Lease Lines Internet,12 - Lease lines
+705007,2. Total Overhead Costs,10. Communications Services,Lease Lines E-mail,12 - Lease lines
+705001,2. Total Overhead Costs,10. Communications Services,Lease Lines Satellites,12 - Lease lines
+705004,2. Total Overhead Costs,10. Communications Services,Lease Lines Dial Up,12 - Lease lines
+714005,2. Total Overhead Costs,11. Contracts and Other Services,Other Profess Services,23 - Other Professional Services
+714014,2. Total Overhead Costs,11. Contracts and Other Services,P/R and Benefits Admin,23 - Other Professional Services
+714017,2. Total Overhead Costs,11. Contracts and Other Services,RECORD RETENTION,23 - Other Professional Services
+737074,2. Total Overhead Costs,11. Contracts and Other Services,MAINTENANCE FEE TORRE MERCEDES,27 - Other Expenses
+575501,2. Total Overhead Costs,11. Contracts and Other Services,Local Support Cost,27 - Other Expenses
+737006,2. Total Overhead Costs,11. Contracts and Other Services,Agent Computer Services,27 - Other Expenses
+703002,2. Total Overhead Costs,11. Contracts and Other Services,Security Services,27 - Other Expenses
+737079,2. Total Overhead Costs,11. Contracts and Other Services,TM DEF CHARGES AMORT,NO IDENTIFICADO
+737084,2. Total Overhead Costs,11. Contracts and Other Services,HR Payroll Services,27 - Other Expenses
+737086,2. Total Overhead Costs,11. Contracts and Other Services,Honduras Operations,27 - Other Expenses
+737034,2. Total Overhead Costs,11. Contracts and Other Services,Maintenance Fee,NO IDENTIFICADO
+737026,2. Total Overhead Costs,11. Contracts and Other Services,Technical Fee Services,27 - Other Expenses
+737087,2. Total Overhead Costs,11. Contracts and Other Services,SR Contributions,27 - Other Expenses
+737094,2. Total Overhead Costs,11. Contracts and Other Services,Licenses HR,27 - Other Expenses
+737022,2. Total Overhead Costs,11. Contracts and Other Services,PICK UP CHARGES,27 - Other Expenses
+737000,2. Total Overhead Costs,11. Contracts and Other Services,Other Services Costs,27 - Other Expenses
+509010,2. Total Overhead Costs,12. Rentals,Intercompany Office Rent,25 - Other I/C Costs
+740000,2. Total Overhead Costs,12. Rentals,Rental Expense,20 - Other Rentals
+740100,2. Total Overhead Costs,12. Rentals,Rental Expense - Real Proper,14 - Communications Equipment
+741500,2. Total Overhead Costs,12. Rentals,Other Real Property Rental E,20 - Other Rentals
+741512,2. Total Overhead Costs,12. Rentals,HANGER RENTAL,20 - Other Rentals
+742000,2. Total Overhead Costs,12. Rentals,Office Rental Expense,20 - Other Rentals
+742010,2. Total Overhead Costs,12. Rentals,RENT-OFFICES,20 - Other Rentals
+742301,2. Total Overhead Costs,12. Rentals,RENT-OFFICES,NO IDENTIFICADO
+742302,2. Total Overhead Costs,12. Rentals,RENT-OFFICES,20 - Other Rentals
+742304,2. Total Overhead Costs,12. Rentals,Rev GAAP Equipment,NO IDENTIFICADO
+744000,2. Total Overhead Costs,12. Rentals,Rental Expense - Personal Pr,20 - Other Rentals
+744500,2. Total Overhead Costs,12. Rentals,Equipment Rental Exp,20 - Other Rentals
+744510,2. Total Overhead Costs,12. Rentals,RENT-EQUIPMENT,20 - Other Rentals
+745000,2. Total Overhead Costs,12. Rentals,Vehicle Rental Exp,20 - Other Rentals
+745005,2. Total Overhead Costs,12. Rentals,Vehicle Rental Exp,20 - Other Rentals
+745510,2. Total Overhead Costs,12. Rentals,Computer Rental Exp,18 - Computer Rental
+746000,2. Total Overhead Costs,12. Rentals,Comm Rental Exp,NO IDENTIFICADO
+746005,2. Total Overhead Costs,12. Rentals,Comm Rental Exp,NO IDENTIFICADO
+749500,2. Total Overhead Costs,12. Rentals,Other Personal Property Rent,20 - Other Rentals
+749599,2. Total Overhead Costs,12. Rentals,RENTAL INCOME,20 - Other Rentals
+744511,2. Total Overhead Costs,12. Rentals,RENT- EQUIPMENT,20 - Other Rentals
+745010,2. Total Overhead Costs,12. Rentals,Vehicle Rental Exp,20 - Other Rentals
+745011,2. Total Overhead Costs,12. Rentals,Vehicle Rental Exp,20 - Other Rentals
+749512,2. Total Overhead Costs,12. Rentals,Alquiler - Estacionamiento,20 - Other Rentals
+703001,2. Total Overhead Costs,12. Rentals,Plants Leases,27 - Other Expenses
+745501,2. Total Overhead Costs,12. Rentals,Computer Lease Server,18 - Computer Rental
+745504,2. Total Overhead Costs,12. Rentals,Hardware Lease Telecommunications,18 - Computer Rental
+745012,2. Total Overhead Costs,12. Rentals,Vehicle Rental Exp Non Deductable,20 - Other Rentals
+741002,2. Total Overhead Costs,12. Rentals,WHRSE & FACIL RENT,NO IDENTIFICADO
+745502,2. Total Overhead Costs,12. Rentals,Hardware Lease Teleco,18 - Computer Rental
+744501,2. Total Overhead Costs,12. Rentals,Equipment Rental,20 - Other Rentals
+744601,2. Total Overhead Costs,12. Rentals,Equipment Rental,18 - Computer Rental
+744701,2. Total Overhead Costs,12. Rentals,Equipment Rental,20 - Other Rentals
+744801,2. Total Overhead Costs,12. Rentals,Equipment Rental Var,18 - Computer Rental
+744803,2. Total Overhead Costs,12. Rentals,Equipment Rental Var,18 - Computer Rental
+744807,2. Total Overhead Costs,12. Rentals,Rev GAAP Equipment,NO IDENTIFICADO
+742011,2. Total Overhead Costs,12. Rentals,RENT-OFFICES OP lea,NO IDENTIFICADO
+745500,2. Total Overhead Costs,12. Rentals,Computer Rental Expense,18 - Computer Rental
+745009,2. Total Overhead Costs,12. Rentals,Airplane - Rental,NO IDENTIFICADO
+738002,2. Total Overhead Costs,12. Rentals,Rental Expense not Cap.,18 - Computer Rental
+738001,2. Total Overhead Costs,12. Rentals,Car Rental not Cap.,27 - Other Expenses
+739101,2. Total Overhead Costs,12. Rentals,OpertLease ROU AssetAm,27 - Other Expenses
+738040,2. Total Overhead Costs,12. Rentals,Rental GAAP Reversal,27 - Other Expenses
+738041,2. Total Overhead Costs,12. Rentals,Rental GAAP Reversal,NO IDENTIFICADO
+739201,2. Total Overhead Costs,12. Rentals,Oper. Lease ROU Asset,27 - Other Expenses
+738003,2. Total Overhead Costs,12. Rentals,Estate 12. Rentals,17 - Equipment Rental
+738004,2. Total Overhead Costs,12. Rentals,Estate 12. Rentals,20 - Other Rentals
+738006,2. Total Overhead Costs,12. Rentals,Rental Equipment,17 - Equipment Rental
+738030,2. Total Overhead Costs,12. Rentals,Lease Reversal,NO IDENTIFICADO
+742030,2. Total Overhead Costs,12. Rentals,Lease Reversal,NO IDENTIFICADO
+745030,2. Total Overhead Costs,12. Rentals,Lease Reversal,NO IDENTIFICADO
+738050,2. Total Overhead Costs,12. Rentals,Lease Reversal,NO IDENTIFICADO
+701005,2. Total Overhead Costs,13. Public Services,ELECTR/BUILDING,27 - Other Expenses
+702000,2. Total Overhead Costs,13. Public Services,Utilities Exp-Water,27 - Other Expenses
+702005,2. Total Overhead Costs,13. Public Services,Utilities Exp-Water,27 - Other Expenses
+703000,2. Total Overhead Costs,13. Public Services,Utilities Expense - Other,27 - Other Expenses
+703099,2. Total Overhead Costs,13. Public Services,BUILDING OPERATING EXP,27 - Other Expenses
+756000,2. Total Overhead Costs,14. Taxes & Utilities,Taxes Other Than Income,27 - Other Expenses
+756500,2. Total Overhead Costs,14. Taxes & Utilities,Property Tax Expense,27 - Other Expenses
+756509,2. Total Overhead Costs,14. Taxes & Utilities,PROPERTY TAXES,27 - Other Expenses
+757500,2. Total Overhead Costs,14. Taxes & Utilities,Net Worth/Franchise Tax Expe,NO IDENTIFICADO
+757599,2. Total Overhead Costs,14. Taxes & Utilities,STATE FRANCHISE TAXES,NO IDENTIFICADO
+758500,2. Total Overhead Costs,14. Taxes & Utilities,Other Tax Expensese,27 - Other Expenses
+758503,2. Total Overhead Costs,14. Taxes & Utilities,Foreign remittance,27 - Other Expenses
+758505,2. Total Overhead Costs,14. Taxes & Utilities,Other Local Taxes,27 - Other Expenses
+782002,2. Total Overhead Costs,14. Taxes & Utilities,DUTIES,27 - Other Expenses
+782026,2. Total Overhead Costs,14. Taxes & Utilities,LANDING FEES,27 - Other Expenses
+782042,2. Total Overhead Costs,14. Taxes & Utilities,VEHICLE DUTIES,27 - Other Expenses
+758504,2. Total Overhead Costs,14. Taxes & Utilities,Patent Protection,27 - Other Expenses
+756502,2. Total Overhead Costs,14. Taxes & Utilities,Timbre de Educación,NO IDENTIFICADO
+758502,2. Total Overhead Costs,14. Taxes & Utilities,Timbres Fiscales,NO IDENTIFICADO
+758507,2. Total Overhead Costs,14. Taxes & Utilities,Imp.Renta Capital Mob,NO IDENTIFICADO
+782044,2. Total Overhead Costs,14. Taxes & Utilities,PROCOMER CANON,27 - Other Expenses
+758511,2. Total Overhead Costs,14. Taxes & Utilities,CR Non Deductable Expenses,NO IDENTIFICADO
+782069,2. Total Overhead Costs,14. Taxes & Utilities,PROCOMER CANNON ALLOCATION,27 - Other Expenses
+714011,2. Total Overhead Costs,14. Taxes & Utilities,Tax Services,27 - Other Expenses
+785006,2. Total Overhead Costs,14. Taxes & Utilities,Sales Taxes,27 - Other Expenses
+758514,2. Total Overhead Costs,14. Taxes & Utilities,Impuesto Traspaso Vehículos,NO IDENTIFICADO
+758508,2. Total Overhead Costs,14. Taxes & Utilities,Patente Municipal,NO IDENTIFICADO
+758516,2. Total Overhead Costs,14. Taxes & Utilities,Interes ISR,27 - Other Expenses
+758506,2. Total Overhead Costs,14. Taxes & Utilities,IVA Expenses,27 - Other Expenses
+761018,2. Total Overhead Costs,15. Travel Expenses,Crew Expense,NO IDENTIFICADO
+637030,2. Total Overhead Costs,15. Travel Expenses,SUPPLIES-FOOD & DRINKS,05 - Travel & Meals Expenses
+760000,2. Total Overhead Costs,15. Travel Expenses,Travel and Entertainment Exp,05 - Travel & Meals Expenses
+761000,2. Total Overhead Costs,15. Travel Expenses,Travel Expense,05 - Travel & Meals Expenses
+761010,2. Total Overhead Costs,15. Travel Expenses,15. Travel Expenses,05 - Travel & Meals Expenses
+761015,2. Total Overhead Costs,15. Travel Expenses,T&E travel agency,05 - Travel & Meals Expenses
+761020,2. Total Overhead Costs,15. Travel Expenses,TRAVEL AND ENTERTAINMENT-OTHER,05 - Travel & Meals Expenses
+762000,2. Total Overhead Costs,15. Travel Expenses,Per Diem Exp,NO IDENTIFICADO
+763000,2. Total Overhead Costs,15. Travel Expenses,Meals Exp,05 - Travel & Meals Expenses
+763010,2. Total Overhead Costs,15. Travel Expenses,Meals Exp,05 - Travel & Meals Expenses
+764000,2. Total Overhead Costs,15. Travel Expenses,Entertainment Exp,05 - Travel & Meals Expenses
+764010,2. Total Overhead Costs,15. Travel Expenses,Entertainment Exp QSMS,05 - Travel & Meals Expenses
+782066,2. Total Overhead Costs,15. Travel Expenses,MEETING EXPENSES,05 - Travel & Meals Expenses
+761011,2. Total Overhead Costs,15. Travel Expenses,T&E Travel Agency,05 - Travel & Meals Expenses
+761012,2. Total Overhead Costs,15. Travel Expenses,15. Travel Expenses Non Deductables,NO IDENTIFICADO
+763011,2. Total Overhead Costs,15. Travel Expenses,Meals Expenses Non Deductable,05 - Travel & Meals Expenses
+761016,2. Total Overhead Costs,15. Travel Expenses,T&E travel Non Deductable,05 - Travel & Meals Expenses
+761017,2. Total Overhead Costs,15. Travel Expenses,NO DEDUCIBLE TRAVEL,05 - Travel & Meals Expenses
+761013,2. Total Overhead Costs,15. Travel Expenses,Rent a Car Expenses,05 - Travel & Meals Expenses
+763012,2. Total Overhead Costs,15. Travel Expenses,Meals Expenses Subsidy,05 - Travel & Meals Expenses
+763013,2. Total Overhead Costs,15. Travel Expenses,Reembolso Comedor,02 - Other Employee Benefits & Costs
+761006,2. Total Overhead Costs,15. Travel Expenses,PARQUEO,27 - Other Expenses
+761001,2. Total Overhead Costs,15. Travel Expenses,Rental Car Expenses,27 - Other Expenses
+782065,2. Total Overhead Costs,16. Training Expenses,CONVENTIONS/CONFERENCES,04 - Training Expenses
+587011,2. Total Overhead Costs,16. Training Expenses,Education and Training,04 - Training Expenses
+790000,2. Total Overhead Costs,17. Insurance Expenses,Insurance,27 - Other Expenses
+797001,2. Total Overhead Costs,17. Insurance Expenses,Aviation Insurance,NO IDENTIFICADO
+790500,2. Total Overhead Costs,17. Insurance Expenses,Property Insurance,27 - Other Expenses
+790510,2. Total Overhead Costs,17. Insurance Expenses,Insurance Allocation,27 - Other Expenses
+790502,2. Total Overhead Costs,17. Insurance Expenses,Property Insurance,NO IDENTIFICADO
+791500,2. Total Overhead Costs,17. Insurance Expenses,Vehicle Insurance,27 - Other Expenses
+791510,2. Total Overhead Costs,17. Insurance Expenses,AUTOMOBILE INSURANCE,27 - Other Expenses
+799500,2. Total Overhead Costs,17. Insurance Expenses,Other Insurance,27 - Other Expenses
+799501,2. Total Overhead Costs,17. Insurance Expenses,Other Insurance,02 - Other Employee Benefits & Costs
+790501,2. Total Overhead Costs,17. Insurance Expenses,Property Insurance,27 - Other Expenses
+792001,2. Total Overhead Costs,17. Insurance Expenses,Master Casualty,27 - Other Expenses
+754000,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,27 - Other Expenses
+754005,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,27 - Other Expenses
+770000,2. Total Overhead Costs,18. Other Expenses,Other Administrative Costs,27 - Other Expenses
+771000,2. Total Overhead Costs,18. Other Expenses,Donations and Contributions,27 - Other Expenses
+771500,2. Total Overhead Costs,18. Other Expenses,Cash Don & Contr,27 - Other Expenses
+772000,2. Total Overhead Costs,18. Other Expenses,Chartbl Cash Don&Contr,27 - Other Expenses
+772005,2. Total Overhead Costs,18. Other Expenses,Chartbl Cash Don&Contr,27 - Other Expenses
+773500,2. Total Overhead Costs,18. Other Expenses,Non-Cash Donations and Contr,27 - Other Expenses
+775000,2. Total Overhead Costs,18. Other Expenses,Other Non-Cash Donations and,27 - Other Expenses
+775099,2. Total Overhead Costs,18. Other Expenses,EDUCATIONAL GIFT MATCH,27 - Other Expenses
+777000,2. Total Overhead Costs,18. Other Expenses,Other Product Donations and,27 - Other Expenses
+777099,2. Total Overhead Costs,18. Other Expenses,CONTRIBUTIONS,27 - Other Expenses
+778000,2. Total Overhead Costs,18. Other Expenses,Postage and Courier Expense,27 - Other Expenses
+778094,2. Total Overhead Costs,18. Other Expenses,POSTAGE AND COURIER,27 - Other Expenses
+779000,2. Total Overhead Costs,18. Other Expenses,Bank Charges Other Than Inte,27 - Other Expenses
+779006,2. Total Overhead Costs,18. Other Expenses,BANK FEES,27 - Other Expenses
+780000,2. Total Overhead Costs,18. Other Expenses,Regulated Costs,27 - Other Expenses
+780010,2. Total Overhead Costs,18. Other Expenses,REGULATED COSTS,27 - Other Expenses
+781000,2. Total Overhead Costs,18. Other Expenses,Employee Recreational Activi,27 - Other Expenses
+782000,2. Total Overhead Costs,18. Other Expenses,Misc Admin Costs,27 - Other Expenses
+782001,2. Total Overhead Costs,18. Other Expenses,Misc Admin Costs,NO IDENTIFICADO
+782009,2. Total Overhead Costs,18. Other Expenses,M&R ALLOCATIONS,27 - Other Expenses
+782010,2. Total Overhead Costs,18. Other Expenses,G & A ALLOCATIONS,27 - Other Expenses
+782011,2. Total Overhead Costs,18. Other Expenses,G & A ALLOC DIVERSIFIED,27 - Other Expenses
+782018,2. Total Overhead Costs,18. Other Expenses,ORGANIC ALLOCATIONS,27 - Other Expenses
+782019,2. Total Overhead Costs,18. Other Expenses,PLANTAINS ALLOCATIONS,27 - Other Expenses
+782020,2. Total Overhead Costs,18. Other Expenses,MISC DISCOUNTS,27 - Other Expenses
+782021,2. Total Overhead Costs,18. Other Expenses,Other Overhead,27 - Other Expenses
+782062,2. Total Overhead Costs,18. Other Expenses,FLIGHT PLAN AND COMM,27 - Other Expenses
+782067,2. Total Overhead Costs,18. Other Expenses,PACKAGING MEETING EXPENSES,27 - Other Expenses
+782075,2. Total Overhead Costs,18. Other Expenses,ALLOCATION EXPENSES,27 - Other Expenses
+785000,2. Total Overhead Costs,18. Other Expenses,G & A Costs (CC18),27 - Other Expenses
+785008,2. Total Overhead Costs,18. Other Expenses,TAXIS & OTHER TRANSPORT,27 - Other Expenses
+785009,2. Total Overhead Costs,18. Other Expenses,TAXIS & OTHER TRANSPORT,02 - Other Employee Benefits & Costs
+785015,2. Total Overhead Costs,18. Other Expenses,LEY PROTECCION AL TRABAJADOR,27 - Other Expenses
+785020,2. Total Overhead Costs,18. Other Expenses,APARTMENT EXPENSES,27 - Other Expenses
+785050,2. Total Overhead Costs,18. Other Expenses,ABSORPTION OF I/C EXP,NO IDENTIFICADO
+785072,2. Total Overhead Costs,18. Other Expenses,WELL MONITORY 0201-101-0002,27 - Other Expenses
+785073,2. Total Overhead Costs,18. Other Expenses,LICENSES,27 - Other Expenses
+785075,2. Total Overhead Costs,18. Other Expenses,AGRICULTURAL TESTING,27 - Other Expenses
+785087,2. Total Overhead Costs,18. Other Expenses,MISC ADMIN EXP-DBCP,27 - Other Expenses
+785091,2. Total Overhead Costs,18. Other Expenses,Contingency research,27 - Other Expenses
+785092,2. Total Overhead Costs,18. Other Expenses,Syngenta recovery,27 - Other Expenses
+785093,2. Total Overhead Costs,18. Other Expenses,Packaging allocation,27 - Other Expenses
+785094,2. Total Overhead Costs,18. Other Expenses,Allocation to DFFCO,27 - Other Expenses
+785096,2. Total Overhead Costs,18. Other Expenses,Flowers and others,27 - Other Expenses
+785097,2. Total Overhead Costs,18. Other Expenses,Publication on New building,27 - Other Expenses
+785098,2. Total Overhead Costs,18. Other Expenses,INTERNATIONAL AIRPORT EXPENS,27 - Other Expenses
+785099,2. Total Overhead Costs,18. Other Expenses,OTHER MISC ADM exp,27 - Other Expenses
+785100,2. Total Overhead Costs,18. Other Expenses,TRACEABILITY PROJECT,27 - Other Expenses
+799599,2. Total Overhead Costs,18. Other Expenses,Uninsured Losses,27 - Other Expenses
+895500,2. Total Overhead Costs,18. Other Expenses,Selling (CC18)-Non PR,27 - Other Expenses
+895507,2. Total Overhead Costs,18. Other Expenses,Selling- Miscellaneous,27 - Other Expenses
+900000,2. Total Overhead Costs,18. Other Expenses,Other (Income) Expense - Net,27 - Other Expenses
+714009,2. Total Overhead Costs,18. Other Expenses,Registration Fees,27 - Other Expenses
+714006,2. Total Overhead Costs,18. Other Expenses,Other Prof Services,23 - Other Professional Services
+737076,2. Total Overhead Costs,18. Other Expenses,Moving Expenses,27 - Other Expenses
+782073,2. Total Overhead Costs,18. Other Expenses,ALLOCATION EXPENSES,A - REVENUE / CHARGEBACK
+785101,2. Total Overhead Costs,18. Other Expenses,CUOTA EUROPEA EXPENSES,27 - Other Expenses
+756515,2. Total Overhead Costs,18. Other Expenses,Timbre Educación y Cultura,27 - Other Expenses
+782017,2. Total Overhead Costs,18. Other Expenses,Comisiones Bancarias,27 - Other Expenses
+782094,2. Total Overhead Costs,18. Other Expenses,Cuenta Puenta,27 - Other Expenses
+782099,2. Total Overhead Costs,18. Other Expenses,Gastos no Deducibles,27 - Other Expenses
+725003,2. Total Overhead Costs,18. Other Expenses,Contingency,27 - Other Expenses
+770001,2. Total Overhead Costs,18. Other Expenses,Other Administrative Costs,27 - Other Expenses
+782041,2. Total Overhead Costs,18. Other Expenses,Packaging Allocation,27 - Other Expenses
+907010,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Transaction,27 - Other Expenses
+908010,2. Total Overhead Costs,18. Other Expenses,Gain/Loss Realized,27 - Other Expenses
+503003,2. Total Overhead Costs,18. Other Expenses,Otros Ingresos y Gastos,27 - Other Expenses
+908012,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Transaction -Aut.,27 - Other Expenses
+908013,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Transaction -Adj.,27 - Other Expenses
+907001,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Transaction,27 - Other Expenses
+754101,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,27 - Other Expenses
+754104,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,NO IDENTIFICADO
+908011,2. Total Overhead Costs,18. Other Expenses,Curr Translation Colones,27 - Other Expenses
+782033,2. Total Overhead Costs,18. Other Expenses,Torre Mercedes Def Credit,NO IDENTIFICADO
+841005,2. Total Overhead Costs,18. Other Expenses,Trade Rec. Bad Debt Expense Geest,27 - Other Expenses
+754201,2. Total Overhead Costs,18. Other Expenses,Gain/Loss Sale of Consolidated,27 - Other Expenses
+737030,2. Total Overhead Costs,18. Other Expenses,IT Services,27 - Other Expenses
+913010,2. Total Overhead Costs,18. Other Expenses,Intereses Ganados,27 - Other Expenses
+441092,2. Total Overhead Costs,18. Other Expenses,Servicios Administrativos,A - REVENUE / CHARGEBACK
+442001,2. Total Overhead Costs,18. Other Expenses,Administrative Services,A - REVENUE / CHARGEBACK
+782034,2. Total Overhead Costs,18. Other Expenses,Office Services Allocation,27 - Other Expenses
+441006,2. Total Overhead Costs,18. Other Expenses,I/C Revenue,A - REVENUE / CHARGEBACK
+441010,2. Total Overhead Costs,18. Other Expenses,I/C Sales,A - REVENUE / CHARGEBACK
+509017,2. Total Overhead Costs,18. Other Expenses,DFFI Administrative Expenses,25 - Other I/C Costs
+917005,2. Total Overhead Costs,18. Other Expenses,I/C Interest Expenses,NO IDENTIFICADO
+509055,2. Total Overhead Costs,18. Other Expenses,Transfer Cost,25 - Other I/C Costs
+509026,2. Total Overhead Costs,18. Other Expenses,I/C DBS IT Services,25 - Other I/C Costs
+509060,2. Total Overhead Costs,18. Other Expenses,Commission Expense,NO IDENTIFICADO
+782035,2. Total Overhead Costs,18. Other Expenses,Office Services Allocation,27 - Other Expenses
+782046,2. Total Overhead Costs,18. Other Expenses,Alloc charges from d,27 - Other Expenses
+925005,2. Total Overhead Costs,18. Other Expenses,Capital Lease Int.Ex,27 - Other Expenses
+931002,2. Total Overhead Costs,18. Other Expenses,Int Exp Non Cash Cap,27 - Other Expenses
+782053,2. Total Overhead Costs,18. Other Expenses,DBS PURCH ALLOCATION,27 - Other Expenses
+782064,2. Total Overhead Costs,18. Other Expenses,Allocated Expenses 753,27 - Other Expenses
+782072,2. Total Overhead Costs,18. Other Expenses,Allocated Expenses 706,27 - Other Expenses
+782078,2. Total Overhead Costs,18. Other Expenses,752 ALLOCATION,27 - Other Expenses
+785102,2. Total Overhead Costs,18. Other Expenses,Misc Non Deductible,NO IDENTIFICADO
+785103,2. Total Overhead Costs,18. Other Expenses,Carbon Neutral,27 - Other Expenses
+781034,2. Total Overhead Costs,18. Other Expenses,EMPLOYEE RECREATION,NO IDENTIFICADO
+782079,2. Total Overhead Costs,18. Other Expenses,766 ALLOCATION,27 - Other Expenses
+782059,2. Total Overhead Costs,18. Other Expenses,Accounting Support Allocation,27 - Other Expenses
+737078,2. Total Overhead Costs,18. Other Expenses,IT Services from DBS,25 - Other I/C Costs
+782057,2. Total Overhead Costs,18. Other Expenses,DBS SUPPORT ALLOCATION,25 - Other I/C Costs
+782068,2. Total Overhead Costs,18. Other Expenses,DBS CC ALLOCATION,27 - Other Expenses
+785104,2. Total Overhead Costs,18. Other Expenses,Corporate Allocation,27 - Other Expenses
+782082,2. Total Overhead Costs,18. Other Expenses,Misc. Admin Costs,27 - Other Expenses
+782083,2. Total Overhead Costs,18. Other Expenses,DBS CC ALLOCATION,27 - Other Expenses
+782084,2. Total Overhead Costs,18. Other Expenses,DBS CC ALLOCATION,27 - Other Expenses
+782085,2. Total Overhead Costs,18. Other Expenses,TREASURY ALLOCATION,27 - Other Expenses
+782086,2. Total Overhead Costs,18. Other Expenses,ALLOCATION EXPENSES,27 - Other Expenses
+960001,2. Total Overhead Costs,18. Other Expenses,Non US Tax - Costa Rica,27 - Other Expenses
+782089,2. Total Overhead Costs,18. Other Expenses,SFCR Security Services,27 - Other Expenses
+782090,2. Total Overhead Costs,18. Other Expenses,DBS Purschasing PCARD,27 - Other Expenses
+432006,2. Total Overhead Costs,18. Other Expenses,Rev DBS Services,A - REVENUE / CHARGEBACK
+782091,2. Total Overhead Costs,18. Other Expenses,AFC Pines G&A Allocation,27 - Other Expenses
+779008,2. Total Overhead Costs,18. Other Expenses,Minor Cash Differences,27 - Other Expenses
+782092,2. Total Overhead Costs,18. Other Expenses,ALLOCATION EXP FOR DBS,27 - Other Expenses
+432008,2. Total Overhead Costs,18. Other Expenses,DFFI SERV REVENUE,A - REVENUE / CHARGEBACK
+782100,2. Total Overhead Costs,18. Other Expenses,DBS Pending Invoices,27 - Other Expenses
+782071,2. Total Overhead Costs,18. Other Expenses,Building Allocation,25 - Other I/C Costs
+737083,2. Total Overhead Costs,18. Other Expenses,DBS Treasury Services,27 - Other Expenses
+782101,2. Total Overhead Costs,18. Other Expenses,HR Payroll Allocation,25 - Other I/C Costs
+774001,2. Total Overhead Costs,18. Other Expenses,Chartbl Non-Cash Donations and Contributions,27 - Other Expenses
+603006,2. Total Overhead Costs,18. Other Expenses,Paper Extraordinary,27 - Other Expenses
+908014,2. Total Overhead Costs,18. Other Expenses,Gain/Loss - UNREALIZ,27 - Other Expenses
+773001,2. Total Overhead Costs,18. Other Expenses,Other Cash Don&Con,27 - Other Expenses
+782104,2. Total Overhead Costs,18. Other Expenses,ALLOC CC HR,27 - Other Expenses
+782105,2. Total Overhead Costs,18. Other Expenses,ALLOC CC HR other Ex,27 - Other Expenses
+782049,2. Total Overhead Costs,18. Other Expenses,Admin Expenses Exp. T,27 - Other Expenses
+785086,2. Total Overhead Costs,18. Other Expenses,Gastos No Deducibles,27 - Other Expenses
+908402,2. Total Overhead Costs,18. Other Expenses,Fr Cur Hedging-Rea CR,27 - Other Expenses
+432005,2. Total Overhead Costs,18. Other Expenses,Other Rev,A - REVENUE / CHARGEBACK
+782107,2. Total Overhead Costs,18. Other Expenses,IT PORTAL RENEW(DEP),27 - Other Expenses
+777098,2. Total Overhead Costs,18. Other Expenses,CONTRIBUTIONS NON DEDUCTIBLE,NO IDENTIFICADO
+963010,2. Total Overhead Costs,18. Other Expenses,Income Tax Expense,27 - Other Expenses
+799601,2. Total Overhead Costs,18. Other Expenses,TRAVEL INSURANCE,27 - Other Expenses
+754501,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,NO IDENTIFICADO
+754601,2. Total Overhead Costs,18. Other Expenses,GL Sale Lease,NO IDENTIFICADO
+726001,2. Total Overhead Costs,18. Other Expenses,Servicios de Limpieza,NO IDENTIFICADO
+931001,2. Total Overhead Costs,18. Other Expenses,Int Exp Non Cash,27 - Other Expenses
+841001,2. Total Overhead Costs,18. Other Expenses,Trade Rec. Bad Debt Expense,27 - Other Expenses
+843001,2. Total Overhead Costs,18. Other Expenses,A/R Bad Debt Exp.,NO IDENTIFICADO
+725004,2. Total Overhead Costs,18. Other Expenses,Security Equipment,27 - Other Expenses
+785105,2. Total Overhead Costs,18. Other Expenses,DHM/Security Allocation,27 - Other Expenses
+785106,2. Total Overhead Costs,18. Other Expenses,Quality Allocation,27 - Other Expenses
+785107,2. Total Overhead Costs,18. Other Expenses,SFCR JSOLIS Security allocation,27 - Other Expenses
+785108,2. Total Overhead Costs,18. Other Expenses,Cost of documentation,27 - Other Expenses
+782112,2. Total Overhead Costs,18. Other Expenses,General Storage,27 - Other Expenses
+782111,2. Total Overhead Costs,18. Other Expenses,18. Other Expenses,27 - Other Expenses
+785109,2. Total Overhead Costs,18. Other Expenses,PCard Rebate,27 - Other Expenses
+782113,2. Total Overhead Costs,18. Other Expenses,Administrative Services,27 - Other Expenses
+509042,2. Total Overhead Costs,18. Other Expenses,Costo de servicios Relacionada,27 - Other Expenses
+782114,2. Total Overhead Costs,18. Other Expenses,Almacenamiento de documentos,27 - Other Expenses
+779009,2. Total Overhead Costs,18. Other Expenses,HONORARIOS FIDUCIARIOS,27 - Other Expenses
+782115,2. Total Overhead Costs,18. Other Expenses,Corporate IT Allocation,27 - Other Expenses
+761005,2. Total Overhead Costs,18. Other Expenses,Mileage,05 - Travel & Meals Expenses
+779012,2. Total Overhead Costs,18. Other Expenses,PENNY TEST,27 - Other Expenses
+509000,2. Total Overhead Costs,18. Other Expenses,I/C Cost,25 - Other I/C Costs
+509001,2. Total Overhead Costs,18. Other Expenses,Related Cost,NO IDENTIFICADO
+725000,2. Total Overhead Costs,18. Other Expenses,Security Service Expenses,27 - Other Expenses
+726000,2. Total Overhead Costs,18. Other Expenses,Janitorial Service Expense,NO IDENTIFICADO
+754100,2. Total Overhead Costs,18. Other Expenses,Gain/Loss on Sale of Assets,NO IDENTIFICADO
+801500,2. Total Overhead Costs,18. Other Expenses,Advertising Media Expense,NO IDENTIFICADO
+809000,2. Total Overhead Costs,18. Other Expenses,Advertising Agency Fees,NO IDENTIFICADO
+810000,2. Total Overhead Costs,18. Other Expenses,Other Advertising Expenses,NO IDENTIFICADO
+815000,2. Total Overhead Costs,18. Other Expenses,In Store Sampling Expense,NO IDENTIFICADO
+820000,2. Total Overhead Costs,18. Other Expenses,Other Trade Promotion Ex,NO IDENTIFICADO
+822500,2. Total Overhead Costs,18. Other Expenses,Sales Aids/Point of Sales,NO IDENTIFICADO
+823500,2. Total Overhead Costs,18. Other Expenses,Other Merchandising Exp,NO IDENTIFICADO
+826000,2. Total Overhead Costs,18. Other Expenses,Co Sponsord Mktg-Hospitlty,NO IDENTIFICADO
+830000,2. Total Overhead Costs,18. Other Expenses,Other Mktg-Nutrition,NO IDENTIFICADO
+830500,2. Total Overhead Costs,18. Other Expenses,Misc Marketing Expense,27 - Other Expenses
+907000,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Translation,27 - Other Expenses
+908000,2. Total Overhead Costs,18. Other Expenses,Foreign Currency Translation,27 - Other Expenses
+782116,2. Total Overhead Costs,18. Other Expenses,IT staff backfill,27 - Other Expenses
+782117,2. Total Overhead Costs,18. Other Expenses,Payroll recharge,27 - Other Expenses
+509044,2. Total Overhead Costs,18. Other Expenses,ERP Project IC charge,25 - Other I/C Costs
+782119,2. Total Overhead Costs,18. Other Expenses,DSS ERP ALLOCATION,27 - Other Expenses
+744516,2. Total Overhead Costs,18. Other Expenses,Photocopier Rental,NO IDENTIFICADO
+782120,2. Total Overhead Costs,18. Other Expenses,ALLOC Social Responsability,27 - Other Expenses
+923001,2. Total Overhead Costs,18. Other Expenses,Int Exp Cash-Cap Int,27 - Other Expenses
+835001,2. Total Overhead Costs,18. Other Expenses,Marketing Costs,27 - Other Expenses
+782122,2. Total Overhead Costs,18. Other Expenses,COVID Allocation,02 - Other Employee Benefits & Costs
+509036,2. Total Overhead Costs,18. Other Expenses,I/C Servicios Administrativos,NO IDENTIFICADO
+637024,2. Total Overhead Costs,18. Other Expenses,Covid-19 Tests,NO IDENTIFICADO
+782123,2. Total Overhead Costs,18. Other Expenses,Director's Compensation,NO IDENTIFICADO
